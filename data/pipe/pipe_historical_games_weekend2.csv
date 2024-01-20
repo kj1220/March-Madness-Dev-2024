@@ -1,0 +1,181 @@
+﻿game_id,id,year,region,round,high_bracket_seed,high_bracket_team,low_bracket_seed,low_bracket_team,high_bracket_score,low_bracket_score,point_diff,point_total,win
+20083113,3113,2008,East,Sweet 16,1,2008 North Carolina,4,2008 Washington St.,68,47,21,115,1
+20083113,3113,2008,East,Sweet 16,3,2008 Louisville,2,2008 Tennessee,79,60,19,139,1
+20083213,3213,2008,Midwest,Sweet 16,1,2008 Kansas,12,2008 Villanova,72,57,15,129,1
+20083214,3214,2008,Midwest,Sweet 16,3,2008 Wisconsin,10,2008 Davidson,56,73,-17,129,0
+20083313,3313,2008,South,Sweet 16,1,2008 Memphis,5,2008 Michigan St.,92,74,18,166,1
+20083314,3314,2008,South,Sweet 16,3,2008 Stanford,2,2008 Texas,62,82,-20,144,0
+20083413,3413,2008,West,Sweet 16,1,2008 UCLA,12,2008 Western Kentucky,88,78,10,166,1
+20083414,3414,2008,West,Sweet 16,3,2008 Xavier,7,2008 West Virginia,79,75,4,154,1
+20084115,4115,2008,East,Elite Eight,1,2008 North Carolina,3,2008 Louisville,83,73,10,156,1
+20084215,4215,2008,Midwest,Elite Eight,1,2008 Kansas,10,2008 Davidson,59,57,2,116,1
+20084315,4315,2008,South,Elite Eight,1,2008 Memphis,2,2008 Texas,85,67,18,152,1
+20084415,4415,2008,West,Elite Eight,1,2008 UCLA,3,2008 Xavier,76,57,19,133,1
+20093113,3113,2009,Midwest,Sweet 16,1,2009 Louisville,12,2009 Arizona,103,64,39,167,1
+20093113,3113,2009,Midwest,Sweet 16,3,2009 Kansas,2,2009 Michigan St.,62,67,-5,129,0
+20093213,3213,2009,West,Sweet 16,1,2009 Connecticut,5,2009 Purdue,72,60,12,132,1
+20093214,3214,2009,West,Sweet 16,3,2009 Missouri,2,2009 Memphis,102,91,11,193,1
+20093313,3313,2009,East,Sweet 16,1,2009 Pittsburgh,4,2009 Xavier,60,55,5,115,1
+20093314,3314,2009,East,Sweet 16,3,2009 Villanova,2,2009 Duke,77,54,23,131,1
+20093413,3413,2009,South,Sweet 16,1,2009 North Carolina,4,2009 Gonzaga,98,77,21,175,1
+20093414,3414,2009,South,Sweet 16,3,2009 Syracuse,2,2009 Oklahoma,71,84,-13,155,0
+20094115,4115,2009,Midwest,Elite Eight,1,2009 Louisville,2,2009 Michigan St.,52,64,-12,116,0
+20094215,4215,2009,West,Elite Eight,1,2009 Connecticut,3,2009 Missouri,82,75,7,157,1
+20094315,4315,2009,East,Elite Eight,1,2009 Pittsburgh,3,2009 Villanova,76,78,-2,154,0
+20094415,4415,2009,South,Elite Eight,1,2009 North Carolina,2,2009 Oklahoma,72,60,12,132,1
+20103113,3113,2010,Midwest,Sweet 16,9,2010 Northern Iowa,5,2010 Michigan St.,52,59,-7,111,0
+20103113,3113,2010,Midwest,Sweet 16,6,2010 Tennessee,2,2010 Ohio St.,76,73,3,149,1
+20103213,3213,2010,West,Sweet 16,1,2010 Syracuse,5,2010 Butler,59,63,-4,122,0
+20103214,3214,2010,West,Sweet 16,6,2010 Xavier,2,2010 Kansas St.,96,101,-5,197,0
+20103313,3313,2010,East,Sweet 16,1,2010 Kentucky,12,2010 Cornell,62,45,17,107,1
+20103314,3314,2010,East,Sweet 16,11,2010 Washington,2,2010 West Virginia,56,69,-13,125,0
+20103413,3413,2010,South,Sweet 16,1,2010 Duke,4,2010 Purdue,70,57,13,127,1
+20103414,3414,2010,South,Sweet 16,3,2010 Baylor,10,2010 Saint Mary's,72,49,23,121,1
+20104115,4115,2010,Midwest,Elite Eight,5,2010 Michigan St.,6,2010 Tennessee,70,69,1,139,1
+20104215,4215,2010,West,Elite Eight,5,2010 Butler,2,2010 Kansas St.,63,56,7,119,1
+20104315,4315,2010,East,Elite Eight,1,2010 Kentucky,2,2010 West Virginia,66,73,-7,139,0
+20104415,4415,2010,South,Elite Eight,1,2010 Duke,3,2010 Baylor,78,71,7,149,1
+20113113,3113,2011,East,Sweet 16,1,2011 Ohio St.,4,2011 Kentucky,60,62,-2,122,0
+20113113,3113,2011,East,Sweet 16,11,2011 Marquette,2,2011 North Carolina,63,81,-18,144,0
+20113213,3213,2011,West,Sweet 16,1,2011 Duke,5,2011 Arizona,77,93,-16,170,0
+20113214,3214,2011,West,Sweet 16,3,2011 Connecticut,2,2011 San Diego St.,74,67,7,141,1
+20113313,3313,2011,Southwest,Sweet 16,1,2011 Kansas,12,2011 Richmond,77,57,20,134,1
+20113314,3314,2011,Southwest,Sweet 16,11,2011 VCU,10,2011 Florida St.,72,71,1,143,1
+20113413,3413,2011,Southeast,Sweet 16,8,2011 Butler,4,2011 Wisconsin,61,54,7,115,1
+20113414,3414,2011,Southeast,Sweet 16,3,2011 BYU,2,2011 Florida,74,83,-9,157,0
+20114115,4115,2011,East,Elite Eight,4,2011 Kentucky,2,2011 North Carolina,76,69,7,145,1
+20114215,4215,2011,West,Elite Eight,5,2011 Arizona,3,2011 Connecticut,63,65,-2,128,0
+20114315,4315,2011,Southwest,Elite Eight,1,2011 Kansas,11,2011 VCU,61,71,-10,132,0
+20114415,4415,2011,Southeast,Elite Eight,8,2011 Butler,2,2011 Florida,74,71,3,145,1
+20123113,3113,2012,South,Sweet 16,1,2012 Kentucky,4,2012 Indiana,102,90,12,192,1
+20123113,3113,2012,South,Sweet 16,3,2012 Baylor,10,2012 Xavier,75,70,5,145,1
+20123213,3213,2012,West,Sweet 16,1,2012 Michigan St.,4,2012 Louisville,44,57,-13,101,0
+20123214,3214,2012,West,Sweet 16,3,2012 Marquette,7,2012 Florida,58,68,-10,126,0
+20123313,3313,2012,East,Sweet 16,1,2012 Syracuse,4,2012 Wisconsin,64,63,1,127,1
+20123314,3314,2012,East,Sweet 16,6,2012 Cincinnati,2,2012 Ohio St.,66,81,-15,147,0
+20123413,3413,2012,Midwest,Sweet 16,1,2012 North Carolina,13,2012 Ohio,73,65,8,138,1
+20123414,3414,2012,Midwest,Sweet 16,11,2012 NC St.,2,2012 Kansas,57,60,-3,117,0
+20124115,4115,2012,South,Elite Eight,1,2012 Kentucky,3,2012 Baylor,82,70,12,152,1
+20124215,4215,2012,West,Elite Eight,4,2012 Louisville,7,2012 Florida,72,68,4,140,1
+20124315,4315,2012,East,Elite Eight,1,2012 Syracuse,2,2012 Ohio St.,70,77,-7,147,0
+20124415,4415,2012,Midwest,Elite Eight,1,2012 North Carolina,2,2012 Kansas,67,80,-13,147,0
+20133113,3113,2013,Midwest,Sweet 16,1,2013 Louisville,12,2013 Oregon,77,69,8,146,1
+20133113,3113,2013,Midwest,Sweet 16,3,2013 Michigan St.,2,2013 Duke,61,71,-10,132,0
+20133213,3213,2013,West,Sweet 16,9,2013 Wichita St.,13,2013 La Salle,72,58,14,130,1
+20133214,3214,2013,West,Sweet 16,6,2013 Arizona,2,2013 Ohio St.,70,73,-3,143,0
+20133313,3313,2013,South,Sweet 16,1,2013 Kansas,4,2013 Michigan,85,87,-2,172,0
+20133314,3314,2013,South,Sweet 16,3,2013 Florida,15,2013 Florida Gulf Coast,62,50,12,112,1
+20133413,3413,2013,East,Sweet 16,1,2013 Indiana,4,2013 Syracuse,50,61,-11,111,0
+20133414,3414,2013,East,Sweet 16,3,2013 Marquette,2,2013 Miami FL,71,61,10,132,1
+20134115,4115,2013,Midwest,Elite Eight,1,2013 Louisville,2,2013 Duke,85,63,22,148,1
+20134215,4215,2013,West,Elite Eight,9,2013 Wichita St.,2,2013 Ohio St.,70,66,4,136,1
+20134315,4315,2013,South,Elite Eight,4,2013 Michigan,3,2013 Florida,79,59,20,138,1
+20134415,4415,2013,East,Elite Eight,4,2013 Syracuse,3,2013 Marquette,55,39,16,94,1
+20143113,3113,2014,South,Sweet 16,1,2014 Florida,4,2014 UCLA,79,68,11,147,1
+20143113,3113,2014,South,Sweet 16,11,2014 Dayton,10,2014 Stanford,82,72,10,154,1
+20143213,3213,2014,East,Sweet 16,1,2014 Virginia,4,2014 Michigan St.,59,61,-2,120,0
+20143214,3214,2014,East,Sweet 16,3,2014 Iowa St.,7,2014 Connecticut,76,81,-5,157,0
+20143313,3313,2014,West,Sweet 16,1,2014 Arizona,4,2014 San Diego St.,70,64,6,134,1
+20143314,3314,2014,West,Sweet 16,6,2014 Baylor,2,2014 Wisconsin,52,69,-17,121,0
+20143413,3413,2014,Midwest,Sweet 16,8,2014 Kentucky,4,2014 Louisville,74,69,5,143,1
+20143414,3414,2014,Midwest,Sweet 16,11,2014 Tennessee,2,2014 Michigan,71,73,-2,144,0
+20144115,4115,2014,South,Elite Eight,1,2014 Florida,11,2014 Dayton,62,52,10,114,1
+20144215,4215,2014,East,Elite Eight,4,2014 Michigan St.,7,2014 Connecticut,54,60,-6,114,0
+20144315,4315,2014,West,Elite Eight,1,2014 Arizona,2,2014 Wisconsin,63,64,-1,127,0
+20144415,4415,2014,Midwest,Elite Eight,8,2014 Kentucky,2,2014 Michigan,75,72,3,147,1
+20153113,3113,2015,Midwest,Sweet 16,1,2015 Kentucky,5,2015 West Virginia,78,39,39,117,1
+20153113,3113,2015,Midwest,Sweet 16,3,2015 Notre Dame,7,2015 Wichita St.,81,70,11,151,1
+20153213,3213,2015,West,Sweet 16,1,2015 Wisconsin,4,2015 North Carolina,79,72,7,151,1
+20153214,3214,2015,West,Sweet 16,6,2015 Xavier,2,2015 Arizona,60,68,-8,128,0
+20153313,3313,2015,East,Sweet 16,8,2015 NC St.,4,2015 Louisville,65,75,-10,140,0
+20153314,3314,2015,East,Sweet 16,3,2015 Oklahoma,7,2015 Michigan St.,58,62,-4,120,0
+20153413,3413,2015,South,Sweet 16,1,2015 Duke,5,2015 Utah,63,57,6,120,1
+20153414,3414,2015,South,Sweet 16,11,2015 UCLA,2,2015 Gonzaga,62,74,-12,136,0
+20154115,4115,2015,Midwest,Elite Eight,1,2015 Kentucky,3,2015 Notre Dame,68,66,2,134,1
+20154215,4215,2015,West,Elite Eight,1,2015 Wisconsin,2,2015 Arizona,85,78,7,163,1
+20154315,4315,2015,East,Elite Eight,4,2015 Louisville,7,2015 Michigan St.,70,76,-6,146,0
+20154415,4415,2015,South,Elite Eight,1,2015 Duke,2,2015 Gonzaga,66,52,14,118,1
+20163113,3113,2016,South,Sweet 16,1,2016 Kansas,5,2016 Maryland,79,63,16,142,1
+20163113,3113,2016,South,Sweet 16,3,2016 Miami FL,2,2016 Villanova,69,92,-23,161,0
+20163213,3213,2016,West,Sweet 16,1,2016 Oregon,4,2016 Duke,82,68,14,150,1
+20163214,3214,2016,West,Sweet 16,3,2016 Texas A&M,2,2016 Oklahoma,63,77,-14,140,0
+20163313,3313,2016,East,Sweet 16,1,2016 North Carolina,5,2016 Indiana,101,86,15,187,1
+20163314,3314,2016,East,Sweet 16,6,2016 Notre Dame,7,2016 Wisconsin,61,56,5,117,1
+20163413,3413,2016,Midwest,Sweet 16,1,2016 Virginia,4,2016 Iowa St.,84,71,13,155,1
+20163414,3414,2016,Midwest,Sweet 16,11,2016 Gonzaga,10,2016 Syracuse,60,63,-3,123,0
+20164115,4115,2016,South,Elite Eight,1,2016 Kansas,2,2016 Villanova,59,64,-5,123,0
+20164215,4215,2016,West,Elite Eight,1,2016 Oregon,2,2016 Oklahoma,68,80,-12,148,0
+20164315,4315,2016,East,Elite Eight,1,2016 North Carolina,6,2016 Notre Dame,88,74,14,162,1
+20164415,4415,2016,Midwest,Elite Eight,1,2016 Virginia,10,2016 Syracuse,62,68,-6,130,0
+20173113,3113,2017,East,Sweet 16,8,2017 Wisconsin,4,2017 Florida,83,84,-1,167,0
+20173113,3113,2017,East,Sweet 16,3,2017 Baylor,7,2017 South Carolina,50,70,-20,120,0
+20173213,3213,2017,West,Sweet 16,1,2017 Gonzaga,4,2017 West Virginia,61,58,3,119,1
+20173214,3214,2017,West,Sweet 16,11,2017 Xavier,2,2017 Arizona,73,71,2,144,1
+20173313,3313,2017,Midwest,Sweet 16,1,2017 Kansas,4,2017 Purdue,98,66,32,164,1
+20173314,3314,2017,Midwest,Sweet 16,3,2017 Oregon,7,2017 Michigan,69,68,1,137,1
+20173413,3413,2017,South,Sweet 16,1,2017 North Carolina,4,2017 Butler,92,80,12,172,1
+20173414,3414,2017,South,Sweet 16,3,2017 UCLA,2,2017 Kentucky,75,86,-11,161,0
+20174115,4115,2017,East,Elite Eight,4,2017 Florida,7,2017 South Carolina,70,77,-7,147,0
+20174215,4215,2017,West,Elite Eight,1,2017 Gonzaga,11,2017 Xavier,83,59,24,142,1
+20174315,4315,2017,Midwest,Elite Eight,1,2017 Kansas,3,2017 Oregon,60,74,-14,134,0
+20174415,4415,2017,South,Elite Eight,1,2017 North Carolina,2,2017 Kentucky,75,73,2,148,1
+20183113,3113,2018,South,Sweet 16,9,2018 Kansas St.,5,2018 Kentucky,61,58,3,119,1
+20183113,3113,2018,South,Sweet 16,11,2018 Loyola Chicago,7,2018 Nevada,69,68,1,137,1
+20183213,3213,2018,West,Sweet 16,9,2018 Florida St.,4,2018 Gonzaga,75,60,15,135,1
+20183214,3214,2018,West,Sweet 16,3,2018 Michigan,7,2018 Texas A&M,99,72,27,171,1
+20183313,3313,2018,East,Sweet 16,1,2018 Villanova,5,2018 West Virginia,90,78,12,168,1
+20183314,3314,2018,East,Sweet 16,3,2018 Texas Tech,2,2018 Purdue,78,65,13,143,1
+20183413,3413,2018,Midwest,Sweet 16,1,2018 Kansas,5,2018 Clemson,80,76,4,156,1
+20183414,3414,2018,Midwest,Sweet 16,11,2018 Syracuse,2,2018 Duke,65,69,-4,134,0
+20184115,4115,2018,South,Elite Eight,9,2018 Kansas St.,11,2018 Loyola Chicago,62,78,-16,140,0
+20184215,4215,2018,West,Elite Eight,9,2018 Florida St.,3,2018 Michigan,54,58,-4,112,0
+20184315,4315,2018,East,Elite Eight,1,2018 Villanova,3,2018 Texas Tech,71,59,12,130,1
+20184415,4415,2018,Midwest,Elite Eight,1,2018 Kansas,2,2018 Duke,85,81,4,166,1
+20193113,3113,2019,East,Sweet 16,1,2019 Duke,4,2019 Virginia Tech,75,73,2,148,1
+20193113,3113,2019,East,Sweet 16,3,2019 LSU,2,2019 Michigan St.,63,80,-17,143,0
+20193213,3213,2019,West,Sweet 16,1,2019 Gonzaga,4,2019 Florida St.,72,58,14,130,1
+20193214,3214,2019,West,Sweet 16,3,2019 Texas Tech,2,2019 Michigan,63,44,19,107,1
+20193313,3313,2019,South,Sweet 16,1,2019 Virginia,12,2019 Oregon,53,49,4,102,1
+20193314,3314,2019,South,Sweet 16,3,2019 Purdue,2,2019 Tennessee,99,94,5,193,1
+20193413,3413,2019,Midwest,Sweet 16,1,2019 North Carolina,5,2019 Auburn,80,97,-17,177,0
+20193414,3414,2019,Midwest,Sweet 16,3,2019 Houston,2,2019 Kentucky,58,62,-4,120,0
+20194115,4115,2019,East,Elite Eight,1,2019 Duke,2,2019 Michigan St.,67,68,-1,135,0
+20194215,4215,2019,West,Elite Eight,1,2019 Gonzaga,3,2019 Texas Tech,69,75,-6,144,0
+20194315,4315,2019,South,Elite Eight,1,2019 Virginia,3,2019 Purdue,80,75,5,155,1
+20194415,4415,2019,Midwest,Elite Eight,5,2019 Auburn,2,2019 Kentucky,77,71,6,148,1
+20213113,3113,2021,West,Sweet 16,1,2021 Gonzaga,5,2021 Creighton,83,65,18,148,1
+20213113,3113,2021,West,Sweet 16,6,2021 USC,7,2021 Oregon,82,68,14,150,1
+20213213,3213,2021,East,Sweet 16,1,2021 Michigan,4,2021 Florida St.,76,58,18,134,1
+20213214,3214,2021,East,Sweet 16,11,2021 UCLA,2,2021 Alabama,88,78,10,166,1
+20213313,3313,2021,South,Sweet 16,1,2021 Baylor,5,2021 Villanova,62,51,11,113,1
+20213314,3314,2021,South,Sweet 16,3,2021 Arkansas,15,2021 Oral Roberts,72,70,2,142,1
+20213413,3413,2021,Midwest,Sweet 16,8,2021 Loyola Chicago,12,2021 Oregon St.,58,65,-7,123,0
+20213414,3414,2021,Midwest,Sweet 16,11,2021 Syracuse,2,2021 Houston,46,62,-16,108,0
+20214115,4115,2021,West,Elite Eight,1,2021 Gonzaga,6,2021 USC,85,66,19,151,1
+20214215,4215,2021,East,Elite Eight,1,2021 Michigan,11,2021 UCLA,49,51,-2,100,0
+20214315,4315,2021,South,Elite Eight,1,2021 Baylor,3,2021 Arkansas,81,72,9,153,1
+20214415,4415,2021,Midwest,Elite Eight,12,2021 Oregon St.,2,2021 Houston,61,67,-6,128,0
+20223113,3113,2022,West,Sweet 16,1,2022 Gonzaga,4,2022 Arkansas,68,74,-6,142,0
+20223113,3113,2022,West,Sweet 16,3,2022 Texas Tech,2,2022 Duke,73,78,-5,151,0
+20223213,3213,2022,East,Sweet 16,8,2022 North Carolina,4,2022 UCLA,73,66,7,139,1
+20223214,3214,2022,East,Sweet 16,3,2022 Purdue,15,2022 Saint Peter's,64,67,-3,131,0
+20223313,3313,2022,South,Sweet 16,1,2022 Arizona,5,2022 Houston,60,72,-12,132,0
+20223314,3314,2022,South,Sweet 16,11,2022 Michigan,2,2022 Villanova,55,63,-8,118,0
+20223413,3413,2022,Midwest,Sweet 16,1,2022 Kansas,4,2022 Providence,66,61,5,127,1
+20223414,3414,2022,Midwest,Sweet 16,11,2022 Iowa St.,10,2022 Miami FL,56,70,-14,126,0
+20224115,4115,2022,West,Elite Eight,4,2022 Arkansas,2,2022 Duke,69,78,-9,147,0
+20224215,4215,2022,East,Elite Eight,8,2022 North Carolina,15,2022 Saint Peter's,69,49,20,118,1
+20224315,4315,2022,South,Elite Eight,5,2022 Houston,2,2022 Villanova,44,50,-6,94,0
+20224415,4415,2022,Midwest,Elite Eight,1,2022 Kansas,10,2022 Miami FL,76,50,26,126,1
+20233113,3113,2023,South,Sweet 16,1,2023 Alabama,5,2023 San Diego St.,64,71,-7,135,0
+20233113,3113,2023,South,Sweet 16,6,2023 Creighton,15,2023 Princeton,86,75,11,161,1
+20233213,3213,2023,East,Sweet 16,9,2023 Florida Atlantic,4,2023 Tennessee,62,55,7,117,1
+20233214,3214,2023,East,Sweet 16,3,2023 Kansas St.,7,2023 Michigan St.,98,93,5,191,1
+20233313,3313,2023,Midwest,Sweet 16,1,2023 Houston,5,2023 Miami FL,75,89,-14,164,0
+20233314,3314,2023,Midwest,Sweet 16,3,2023 Xavier,2,2023 Texas,71,83,-12,154,0
+20233413,3413,2023,West,Sweet 16,8,2023 Arkansas,4,2023 Connecticut,65,88,-23,153,0
+20233414,3414,2023,West,Sweet 16,3,2023 Gonzaga,2,2023 UCLA,79,76,3,155,1
+20234115,4115,2023,South,Elite Eight,5,2023 San Diego St.,6,2023 Creighton,57,56,1,113,1
+20234215,4215,2023,East,Elite Eight,9,2023 Florida Atlantic,3,2023 Kansas St.,79,76,3,155,1
+20234315,4315,2023,Midwest,Elite Eight,5,2023 Miami FL,2,2023 Texas,88,81,7,169,1
+20234415,4415,2023,West,Elite Eight,4,2023 Connecticut,3,2023 Gonzaga,82,54,28,136,1

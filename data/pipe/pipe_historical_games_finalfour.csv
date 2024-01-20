@@ -1,0 +1,46 @@
+﻿game_id,id,year,region,round,high_bracket_seed,high_bracket_team,low_bracket_seed,low_bracket_team,high_bracket_score,low_bracket_score,point_diff,point_total,win
+20085516,5516,2008,Final Four,Final Four,1,2008 North Carolina,1,2008 Kansas,66,84,-18,150,0
+20085517,5517,2008,Final Four,Final Four,1,2008 Memphis,1,2008 UCLA,78,63,15,141,1
+20085618,5618,2008,Final Four,Championship,1,2008 Kansas,1,2008 Memphis,75,68,7,143,1
+20095516,5516,2009,Final Four,Final Four,2,2009 Michigan St.,1,2009 Connecticut,82,73,9,155,1
+20095517,5517,2009,Final Four,Final Four,3,2009 Villanova,1,2009 North Carolina,69,83,-14,152,0
+20095618,5618,2009,Final Four,Championship,2,2009 Michigan St.,1,2009 North Carolina,72,89,-17,161,0
+20105516,5516,2010,Final Four,Final Four,5,2010 Michigan St.,5,2010 Butler,50,52,-2,102,0
+20105517,5517,2010,Final Four,Final Four,2,2010 West Virginia,1,2010 Duke,57,78,-21,135,0
+20105618,5618,2010,Final Four,Championship,5,2010 Butler,1,2010 Duke,59,61,-2,120,0
+20115516,5516,2011,Final Four,Final Four,4,2011 Kentucky,3,2011 Connecticut,55,56,-1,111,0
+20115517,5517,2011,Final Four,Final Four,11,2011 VCU,8,2011 Butler,62,70,-8,132,0
+20115618,5618,2011,Final Four,Championship,3,2011 Connecticut,8,2011 Butler,53,41,12,94,1
+20125516,5516,2012,Final Four,Final Four,1,2012 Kentucky,4,2012 Louisville,69,61,8,130,1
+20125517,5517,2012,Final Four,Final Four,2,2012 Ohio St.,2,2012 Kansas,62,64,-2,126,0
+20125618,5618,2012,Final Four,Championship,1,2012 Kentucky,2,2012 Kansas,67,59,8,126,1
+20135516,5516,2013,Final Four,Final Four,1,2013 Louisville,9,2013 Wichita St.,72,68,4,140,1
+20135517,5517,2013,Final Four,Final Four,4,2013 Michigan,4,2013 Syracuse,61,56,5,117,1
+20135618,5618,2013,Final Four,Championship,1,2013 Louisville,4,2013 Michigan,82,76,6,158,1
+20145516,5516,2014,Final Four,Final Four,8,2014 Kentucky,2,2014 Wisconsin,74,73,1,147,1
+20145517,5517,2014,Final Four,Final Four,7,2014 Connecticut,1,2014 Florida,63,53,10,116,1
+20145618,5618,2014,Final Four,Championship,8,2014 Kentucky,7,2014 Connecticut,54,60,-6,114,0
+20155516,5516,2015,Final Four,Final Four,1,2015 Kentucky,1,2015 Wisconsin,64,71,-7,135,0
+20155517,5517,2015,Final Four,Final Four,7,2015 Michigan St.,1,2015 Duke,61,81,-20,142,0
+20155618,5618,2015,Final Four,Championship,1,2015 Wisconsin,1,2015 Duke,63,68,-5,131,0
+20165516,5516,2016,Final Four,Final Four,2,2016 Villanova,2,2016 Oklahoma,95,51,44,146,1
+20165517,5517,2016,Final Four,Final Four,1,2016 North Carolina,10,2016 Syracuse,83,66,17,149,1
+20165618,5618,2016,Final Four,Championship,2,2016 Villanova,1,2016 North Carolina,77,74,3,151,1
+20175516,5516,2017,Final Four,Final Four,7,2017 South Carolina,1,2017 Gonzaga,73,77,-4,150,0
+20175517,5517,2017,Final Four,Final Four,3,2017 Oregon,1,2017 North Carolina,76,77,-1,153,0
+20175618,5618,2017,Final Four,Championship,1,2017 Gonzaga,1,2017 North Carolina,65,71,-6,136,0
+20185516,5516,2018,Final Four,Final Four,11,2018 Loyola Chicago,3,2018 Michigan,57,69,-12,126,0
+20185517,5517,2018,Final Four,Final Four,1,2018 Villanova,1,2018 Kansas,95,79,16,174,1
+20185618,5618,2018,Final Four,Championship,3,2018 Michigan,1,2018 Villanova,62,79,-17,141,0
+20195516,5516,2019,Final Four,Final Four,2,2019 Michigan St.,3,2019 Texas Tech,51,61,-10,112,0
+20195517,5517,2019,Final Four,Final Four,1,2019 Virginia,5,2019 Auburn,63,62,1,125,1
+20195618,5618,2019,Final Four,Championship,3,2019 Texas Tech,1,2019 Virginia,77,85,-8,162,0
+20215516,5516,2021,Final Four,Final Four,1,2021 Gonzaga,11,2021 UCLA,93,90,3,183,1
+20215517,5517,2021,Final Four,Final Four,1,2021 Baylor,2,2021 Houston,78,59,19,137,1
+20215618,5618,2021,Final Four,Championship,1,2021 Gonzaga,1,2021 Baylor,70,86,-16,156,0
+20225516,5516,2022,Final Four,Final Four,2,2022 Duke,8,2022 North Carolina,77,81,-4,158,0
+20225517,5517,2022,Final Four,Final Four,2,2022 Villanova,1,2022 Kansas,65,81,-16,146,0
+20225618,5618,2022,Final Four,Championship,8,2022 North Carolina,1,2022 Kansas,69,72,-3,141,0
+20235516,5516,2023,Final Four,Final Four,5,2023 San Diego St.,9,2023 Florida Atlantic,72,71,1,143,1
+20235517,5517,2023,Final Four,Final Four,5,2023 Miami FL,4,2023 Connecticut,59,72,-13,131,0
+20235618,5618,2023,Final Four,Championship,5,2023 San Diego St.,4,2023 Connecticut,59,76,-17,135,0

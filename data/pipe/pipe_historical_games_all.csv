@@ -1,0 +1,944 @@
+﻿game_id,id,year,region,round,high_bracket_seed,high_bracket_team,low_bracket_seed,low_bracket_team,high_bracket_score,low_bracket_score,point_diff,point_total,win
+20081101,1101,2008,East,First Round,1,2008 North Carolina,16,2008 Mount St. Mary's,113,74,39,187,1
+20081108,1108,2008,East,First Round,2,2008 Tennessee,15,2008 American,72,57,15,129,1
+20081106,1106,2008,East,First Round,3,2008 Louisville,14,2008 Boise St.,79,61,18,140,1
+20081104,1104,2008,East,First Round,4,2008 Washington St.,13,2008 Winthrop,71,40,31,111,1
+20081103,1103,2008,East,First Round,5,2008 Notre Dame,12,2008 George Mason,68,50,18,118,1
+20081105,1105,2008,East,First Round,6,2008 Oklahoma,11,2008 Saint Joseph's,72,64,8,136,1
+20081107,1107,2008,East,First Round,7,2008 Butler,10,2008 South Alabama,81,61,20,142,1
+20081102,1102,2008,East,First Round,8,2008 Indiana,9,2008 Arkansas,72,86,-14,158,0
+20081201,1201,2008,Midwest,First Round,1,2008 Kansas,16,2008 Portland St.,85,61,24,146,1
+20081208,1208,2008,Midwest,First Round,2,2008 Georgetown,15,2008 UMBC,66,47,19,113,1
+20081206,1206,2008,Midwest,First Round,3,2008 Wisconsin,14,2008 Cal St. Fullerton,71,56,15,127,1
+20081204,1204,2008,Midwest,First Round,4,2008 Vanderbilt,13,2008 Siena,62,83,-21,145,0
+20081203,1203,2008,Midwest,First Round,5,2008 Clemson,12,2008 Villanova,69,75,-6,144,0
+20081205,1205,2008,Midwest,First Round,6,2008 USC,11,2008 Kansas St.,67,80,-13,147,0
+20081207,1207,2008,Midwest,First Round,7,2008 Gonzaga,10,2008 Davidson,76,82,-6,158,0
+20081202,1202,2008,Midwest,First Round,8,2008 UNLV,9,2008 Kent St.,71,58,13,129,1
+20081301,1301,2008,South,First Round,1,2008 Memphis,16,2008 UT Arlington,87,63,24,150,1
+20081308,1308,2008,South,First Round,2,2008 Texas,15,2008 Austin Peay,74,54,20,128,1
+20081306,1306,2008,South,First Round,3,2008 Stanford,14,2008 Cornell,77,53,24,130,1
+20081304,1304,2008,South,First Round,4,2008 Pittsburgh,13,2008 Oral Roberts,82,63,19,145,1
+20081303,1303,2008,South,First Round,5,2008 Michigan St.,12,2008 Temple,72,61,11,133,1
+20081305,1305,2008,South,First Round,6,2008 Marquette,11,2008 Kentucky,74,66,8,140,1
+20081307,1307,2008,South,First Round,7,2008 Miami FL,10,2008 Saint Mary's,78,64,14,142,1
+20081302,1302,2008,South,First Round,8,2008 Mississippi St.,9,2008 Oregon,76,69,7,145,1
+20081401,1401,2008,West,First Round,1,2008 UCLA,16,2008 Mississippi Valley St.,70,29,41,99,1
+20081408,1408,2008,West,First Round,2,2008 Duke,15,2008 Belmont,71,70,1,141,1
+20081406,1406,2008,West,First Round,3,2008 Xavier,14,2008 Georgia,73,61,12,134,1
+20081404,1404,2008,West,First Round,4,2008 Connecticut,13,2008 San Diego,69,70,-1,139,0
+20081403,1403,2008,West,First Round,5,2008 Drake,12,2008 Western Kentucky,99,101,-2,200,0
+20081405,1405,2008,West,First Round,6,2008 Purdue,11,2008 Baylor,90,79,11,169,1
+20081407,1407,2008,West,First Round,7,2008 West Virginia,10,2008 Arizona,75,65,10,140,1
+20081402,1402,2008,West,First Round,8,2008 BYU,9,2008 Texas A&M,62,67,-5,129,0
+20082109,2109,2008,East,Second Round,1,2008 North Carolina,9,2008 Arkanas,108,77,31,185,1
+20082110,2110,2008,East,Second Round,5,2008 Notre Dame,4,2008 Washington St.,41,61,-20,102,0
+20082111,2111,2008,East,Second Round,6,2008 Oklahoma,3,2008 Louisville,48,78,-30,126,0
+20082112,2112,2008,East,Second Round,7,2008 Butler,2,2008 Tennessee,71,76,-5,147,0
+20082209,2209,2008,Midwest,Second Round,1,2008 Kansas,8,2008 UNLV,75,56,19,131,1
+20082210,2210,2008,Midwest,Second Round,12,2008 Villanova,13,2008 Siena,84,72,12,156,1
+20082211,2211,2008,Midwest,Second Round,11,2008 Kansas St.,3,2008 Wisconsin,55,72,-17,127,0
+20082212,2212,2008,Midwest,Second Round,10,2008 Davidson,2,2008 Georgetown,74,70,4,144,1
+20082309,2309,2008,South,Second Round,1,2008 Memphis,8,2008 Mississippi St.,77,74,3,151,1
+20082310,2310,2008,South,Second Round,5,2008 Michigan St.,4,2008 Pittsburgh,65,54,11,119,1
+20082311,2311,2008,South,Second Round,6,2008 Marquette,3,2008 Stanford,81,82,-1,163,0
+20082312,2312,2008,South,Second Round,7,2008 Miami FL,2,2008 Texas,72,75,-3,147,0
+20082409,2409,2008,West,Second Round,1,2008 UCLA,9,2008 Texas A&M,51,49,2,100,1
+20082410,2410,2008,West,Second Round,12,2008 Western Kentucky,13,2008 San Diego,72,63,9,135,1
+20082411,2411,2008,West,Second Round,6,2008 Purdue,3,2008 Xavier,78,85,-7,163,0
+20082412,2412,2008,West,Second Round,7,2008 West Virginia,2,2008 Duke,73,67,6,140,1
+20083113,3113,2008,East,Sweet 16,1,2008 North Carolina,4,2008 Washington St.,68,47,21,115,1
+20083113,3113,2008,East,Sweet 16,3,2008 Louisville,2,2008 Tennessee,79,60,19,139,1
+20083213,3213,2008,Midwest,Sweet 16,1,2008 Kansas,12,2008 Villanova,72,57,15,129,1
+20083214,3214,2008,Midwest,Sweet 16,3,2008 Wisconsin,10,2008 Davidson,56,73,-17,129,0
+20083313,3313,2008,South,Sweet 16,1,2008 Memphis,5,2008 Michigan St.,92,74,18,166,1
+20083314,3314,2008,South,Sweet 16,3,2008 Stanford,2,2008 Texas,62,82,-20,144,0
+20083413,3413,2008,West,Sweet 16,1,2008 UCLA,12,2008 Western Kentucky,88,78,10,166,1
+20083414,3414,2008,West,Sweet 16,3,2008 Xavier,7,2008 West Virginia,79,75,4,154,1
+20084115,4115,2008,East,Elite Eight,1,2008 North Carolina,3,2008 Louisville,83,73,10,156,1
+20084215,4215,2008,Midwest,Elite Eight,1,2008 Kansas,10,2008 Davidson,59,57,2,116,1
+20084315,4315,2008,South,Elite Eight,1,2008 Memphis,2,2008 Texas,85,67,18,152,1
+20084415,4415,2008,West,Elite Eight,1,2008 UCLA,3,2008 Xavier,76,57,19,133,1
+20085516,5516,2008,Final Four,Final Four,1,2008 North Carolina,1,2008 Kansas,66,84,-18,150,0
+20085517,5517,2008,Final Four,Final Four,1,2008 Memphis,1,2008 UCLA,78,63,15,141,1
+20085618,5618,2008,Final Four,Championship,1,2008 Kansas,1,2008 Memphis,75,68,7,143,1
+20091101,1101,2009,Midwest,First Round,1,2009 Louisville,16,2009 Morehead St.,74,54,20,128,1
+20091108,1108,2009,Midwest,First Round,2,2009 Michigan St.,15,2009 Robert Morris,77,62,15,139,1
+20091106,1106,2009,Midwest,First Round,3,2009 Kansas,14,2009 North Dakota St.,84,74,10,158,1
+20091104,1104,2009,Midwest,First Round,4,2009 Wake Forest,13,2009 Cleveland St.,69,84,-15,153,0
+20091103,1103,2009,Midwest,First Round,5,2009 Utah,12,2009 Arizona,71,84,-13,155,0
+20091105,1105,2009,Midwest,First Round,6,2009 West Virginia,11,2009 Dayton,60,68,-8,128,0
+20091107,1107,2009,Midwest,First Round,7,2009 Boston College,10,2009 USC,55,72,-17,127,0
+20091102,1102,2009,Midwest,First Round,8,2009 Ohio St.,9,2009 Siena,72,74,-2,146,0
+20091201,1201,2009,West,First Round,1,2009 Connecticut,16,2009 Chattanooga,103,47,56,150,1
+20091208,1208,2009,West,First Round,2,2009 Memphis,15,2009 Cal St. Northridge,81,70,11,151,1
+20091206,1206,2009,West,First Round,3,2009 Missouri,14,2009 Cornell,78,59,19,137,1
+20091204,1204,2009,West,First Round,4,2009 Washington,13,2009 Mississippi St.,71,58,13,129,1
+20091203,1203,2009,West,First Round,5,2009 Purdue,12,2009 Northern Iowa,61,56,5,117,1
+20091205,1205,2009,West,First Round,6,2009 Marquette,11,2009 Utah St.,58,57,1,115,1
+20091207,1207,2009,West,First Round,7,2009 California,10,2009 Maryland,71,84,-13,155,0
+20091202,1202,2009,West,First Round,8,2009 Texas A&M,9,2009 BYU,79,66,13,145,1
+20091301,1301,2009,East,First Round,1,2009 Pittsburgh,16,2009 East Tennesse St.,72,62,10,134,1
+20091308,1308,2009,East,First Round,2,2009 Duke,15,2009 Binghamton,86,62,24,148,1
+20091306,1306,2009,East,First Round,3,2009 Villanova,14,2009 American,80,67,13,147,1
+20091304,1304,2009,East,First Round,4,2009 Xavier,13,2009 Portland St.,77,59,18,136,1
+20091303,1303,2009,East,First Round,5,2009 Florida St.,12,2009 Wisconsin,59,61,-2,120,0
+20091305,1305,2009,East,First Round,6,2009 UCLA,11,2009 VCU,65,64,1,129,1
+20091307,1307,2009,East,First Round,7,2009 Texas,10,2009 Minnesota,76,62,14,138,1
+20091302,1302,2009,East,First Round,8,2009 Oklahoma St.,9,2009 Tennessee,77,75,2,152,1
+20091401,1401,2009,South,First Round,1,2009 North Carolina,16,2009 Radford,101,58,43,159,1
+20091408,1408,2009,South,First Round,2,2009 Oklahoma,15,2009 Morgan St.,82,54,28,136,1
+20091406,1406,2009,South,First Round,3,2009 Syracuse,14,2009 Stephen F. Austin,59,44,15,103,1
+20091404,1404,2009,South,First Round,4,2009 Gonzaga,13,2009 Akron,77,64,13,141,1
+20091403,1403,2009,South,First Round,5,2009 Illinois,12,2009 Western Kentucky,72,76,-4,148,0
+20091405,1405,2009,South,First Round,6,2009 Arizona St.,11,2009 Temple,66,57,9,123,1
+20091407,1407,2009,South,First Round,7,2009 Clemson,10,2009 Michigan,59,62,-3,121,0
+20091402,1402,2009,South,First Round,8,2009 LSU,9,2009 Butler,75,71,4,146,1
+20092109,2109,2009,Midwest,Second Round,1,2009 Louisville,9,2009 Siena,79,72,7,151,1
+20092110,2110,2009,Midwest,Second Round,12,2009 Arizona,13,2009 Cleveland St.,71,57,14,128,1
+20092111,2111,2009,Midwest,Second Round,11,2009 Dayton,3,2009 Kansas,43,60,-17,103,0
+20092112,2112,2009,Midwest,Second Round,10,2009 USC,2,2009 Michigan St.,69,74,-5,143,0
+20092209,2209,2009,West,Second Round,1,2009 Connecticut,9,2009 Texas A&M,92,66,26,158,1
+20092210,2210,2009,West,Second Round,5,2009 Purdue,4,2009 Washington,76,74,2,150,1
+20092211,2211,2009,West,Second Round,6,2009 Marquette,3,2009 Missouri,79,83,-4,162,0
+20092212,2212,2009,West,Second Round,10,2009 Maryland,2,2009 Memphis,70,89,-19,159,0
+20092309,2309,2009,East,Second Round,1,2009 Pittsburgh,8,2009 Oklahoma St.,84,76,8,160,1
+20092310,2310,2009,East,Second Round,12,2009 Wisconsin,4,2009 Xavier,49,60,-11,109,0
+20092311,2311,2009,East,Second Round,6,2009 UCLA,3,2009 Villanova,69,89,-20,158,0
+20092312,2312,2009,East,Second Round,7,2009 Texas,2,2009 Duke,69,74,-5,143,0
+20092409,2409,2009,South,Second Round,1,2009 North Carolina,8,2009 LSU,84,70,14,154,1
+20092410,2410,2009,South,Second Round,12,2009 Western Kentucky,4,2009 Gonzaga,81,83,-2,164,0
+20092411,2411,2009,South,Second Round,6,2009 Arizona St.,3,2009 Syracuse,67,78,-11,145,0
+20092412,2412,2009,South,Second Round,10,2009 Michigan,2,2009 Oklahoma,63,73,-10,136,0
+20093113,3113,2009,Midwest,Sweet 16,1,2009 Louisville,12,2009 Arizona,103,64,39,167,1
+20093113,3113,2009,Midwest,Sweet 16,3,2009 Kansas,2,2009 Michigan St.,62,67,-5,129,0
+20093213,3213,2009,West,Sweet 16,1,2009 Connecticut,5,2009 Purdue,72,60,12,132,1
+20093214,3214,2009,West,Sweet 16,3,2009 Missouri,2,2009 Memphis,102,91,11,193,1
+20093313,3313,2009,East,Sweet 16,1,2009 Pittsburgh,4,2009 Xavier,60,55,5,115,1
+20093314,3314,2009,East,Sweet 16,3,2009 Villanova,2,2009 Duke,77,54,23,131,1
+20093413,3413,2009,South,Sweet 16,1,2009 North Carolina,4,2009 Gonzaga,98,77,21,175,1
+20093414,3414,2009,South,Sweet 16,3,2009 Syracuse,2,2009 Oklahoma,71,84,-13,155,0
+20094115,4115,2009,Midwest,Elite Eight,1,2009 Louisville,2,2009 Michigan St.,52,64,-12,116,0
+20094215,4215,2009,West,Elite Eight,1,2009 Connecticut,3,2009 Missouri,82,75,7,157,1
+20094315,4315,2009,East,Elite Eight,1,2009 Pittsburgh,3,2009 Villanova,76,78,-2,154,0
+20094415,4415,2009,South,Elite Eight,1,2009 North Carolina,2,2009 Oklahoma,72,60,12,132,1
+20095516,5516,2009,Final Four,Final Four,2,2009 Michigan St.,1,2009 Connecticut,82,73,9,155,1
+20095517,5517,2009,Final Four,Final Four,3,2009 Villanova,1,2009 North Carolina,69,83,-14,152,0
+20095618,5618,2009,Final Four,Championship,2,2009 Michigan St.,1,2009 North Carolina,72,89,-17,161,0
+20101101,1101,2010,Midwest,First Round,1,2010 Kansas,16,2010 Lehigh,90,74,16,164,1
+20101108,1108,2010,Midwest,First Round,2,2010 Ohio St.,15,2010 UC Santa Barbara,68,51,17,119,1
+20101106,1106,2010,Midwest,First Round,3,2010 Georgetown,14,2010 Ohio,83,97,-14,180,0
+20101104,1104,2010,Midwest,First Round,4,2010 Maryland,13,2010 Houston,89,77,12,166,1
+20101103,1103,2010,Midwest,First Round,5,2010 Michigan St.,12,2010 New Mexico St.,70,67,3,137,1
+20101105,1105,2010,Midwest,First Round,6,2010 Tennessee,11,2010 San Diego St.,62,59,3,121,1
+20101107,1107,2010,Midwest,First Round,7,2010 Oklahoma St.,10,2010 Georgia Tech,59,64,-5,123,0
+20101102,1102,2010,Midwest,First Round,8,2010 UNLV,9,2010 Northern Iowa,66,69,-3,135,0
+20101201,1201,2010,West,First Round,1,2010 Syracuse,16,2010 Vermont,79,56,23,135,1
+20101208,1208,2010,West,First Round,2,2010 Kansas St.,15,2010 North Texas,82,62,20,144,1
+20101206,1206,2010,West,First Round,3,2010 Pittsburgh,14,2010 Oakland,89,66,23,155,1
+20101204,1204,2010,West,First Round,4,2010 Vanderbilt,13,2010 Murray St.,65,66,-1,131,0
+20101203,1203,2010,West,First Round,5,2010 Butler,12,2010 UTEP,77,59,18,136,1
+20101205,1205,2010,West,First Round,6,2010 Xavier,11,2010 Minnesota,65,54,11,119,1
+20101207,1207,2010,West,First Round,7,2010 BYU,10,2010 Florida,99,92,7,191,1
+20101202,1202,2010,West,First Round,8,2010 Gonzaga,9,2010 Florida St.,67,60,7,127,1
+20101301,1301,2010,East,First Round,1,2010 Kentucky,16,2010 East Tennesse St.,100,71,29,171,1
+20101308,1308,2010,East,First Round,2,2010 West Virginia,15,2010 Morgan St.,77,50,27,127,1
+20101306,1306,2010,East,First Round,3,2010 New Mexico,14,2010 Montana,62,57,5,119,1
+20101304,1304,2010,East,First Round,4,2010 Wisconsin,13,2010 Wofford,53,49,4,102,1
+20101303,1303,2010,East,First Round,5,2010 Temple,12,2010 Cornell,65,78,-13,143,0
+20101305,1305,2010,East,First Round,6,2010 Marquette,11,2010 Washington,78,80,-2,158,0
+20101307,1307,2010,East,First Round,7,2010 Clemson,10,2010 Missouri,78,86,-8,164,0
+20101302,1302,2010,East,First Round,8,2010 Texas,9,2010 Wake Forest,80,81,-1,161,0
+20101401,1401,2010,South,First Round,1,2010 Duke,16,2010 Arkansas Pine-Bluff,73,44,29,117,1
+20101408,1408,2010,South,First Round,2,2010 Villanova,15,2010 Robert Morris,73,70,3,143,1
+20101406,1406,2010,South,First Round,3,2010 Baylor,14,2010 Sam Houston St.,68,59,9,127,1
+20101404,1404,2010,South,First Round,4,2010 Purdue,13,2010 Siena,72,64,8,136,1
+20101403,1403,2010,South,First Round,5,2010 Texas A&M,12,2010 Utah St.,69,53,16,122,1
+20101405,1405,2010,South,First Round,6,2010 Notre Dame,11,2010 Oid Dominion,50,51,-1,101,0
+20101407,1407,2010,South,First Round,7,2010 Richmond,10,2010 Saint Mary's,71,80,-9,151,0
+20101402,1402,2010,South,First Round,8,2010 California,9,2010 Louisville,77,62,15,139,1
+20102109,2109,2010,Midwest,Second Round,1,2010 Kansas,9,2010 Northern Iowa,67,69,-2,136,0
+20102110,2110,2010,Midwest,Second Round,5,2010 Michigan St.,4,2010 Maryland,85,83,2,168,1
+20102111,2111,2010,Midwest,Second Round,6,2010 Tennessee,14,2010 Ohio,83,68,15,151,1
+20102112,2112,2010,Midwest,Second Round,10,2010 Georgia Tech,2,2010 Ohio St.,66,75,-9,141,0
+20102209,2209,2010,West,Second Round,1,2010 Syracuse,8,2010 Gonzaga,87,65,22,152,1
+20102210,2210,2010,West,Second Round,5,2010 Butler,13,2010 Murray St.,54,52,2,106,1
+20102211,2211,2010,West,Second Round,6,2010 Xavier,3,2010 Pittsburgh,71,68,3,139,1
+20102212,2212,2010,West,Second Round,7,2010 BYU,2,2010 Kansas St.,72,84,-12,156,0
+20102309,2309,2010,East,Second Round,1,2010 Kentucky,9,2010 Wake Forest,90,60,30,150,1
+20102310,2310,2010,East,Second Round,12,2010 Cornell,4,2010 Wisconsin,87,69,18,156,1
+20102311,2311,2010,East,Second Round,11,2010 Washington,3,2010 New Mexico,82,64,18,146,1
+20102312,2312,2010,East,Second Round,10,2010 Missouri,2,2010 West Virginia,59,68,-9,127,0
+20102409,2409,2010,South,Second Round,1,2010 Duke,8,2010 California,68,53,15,121,1
+20102410,2410,2010,South,Second Round,5,2010 Texas A&M,4,2010 Purdue,61,63,-2,124,0
+20102411,2411,2010,South,Second Round,11,2010 Old Dominion,3,2010 Baylor,68,76,-8,144,0
+20102412,2412,2010,South,Second Round,10,2010 Saint Mary's,2,2010 Villanova,75,68,7,143,1
+20103113,3113,2010,Midwest,Sweet 16,9,2010 Northern Iowa,5,2010 Michigan St.,52,59,-7,111,0
+20103113,3113,2010,Midwest,Sweet 16,6,2010 Tennessee,2,2010 Ohio St.,76,73,3,149,1
+20103213,3213,2010,West,Sweet 16,1,2010 Syracuse,5,2010 Butler,59,63,-4,122,0
+20103214,3214,2010,West,Sweet 16,6,2010 Xavier,2,2010 Kansas St.,96,101,-5,197,0
+20103313,3313,2010,East,Sweet 16,1,2010 Kentucky,12,2010 Cornell,62,45,17,107,1
+20103314,3314,2010,East,Sweet 16,11,2010 Washington,2,2010 West Virginia,56,69,-13,125,0
+20103413,3413,2010,South,Sweet 16,1,2010 Duke,4,2010 Purdue,70,57,13,127,1
+20103414,3414,2010,South,Sweet 16,3,2010 Baylor,10,2010 Saint Mary's,72,49,23,121,1
+20104115,4115,2010,Midwest,Elite Eight,5,2010 Michigan St.,6,2010 Tennessee,70,69,1,139,1
+20104215,4215,2010,West,Elite Eight,5,2010 Butler,2,2010 Kansas St.,63,56,7,119,1
+20104315,4315,2010,East,Elite Eight,1,2010 Kentucky,2,2010 West Virginia,66,73,-7,139,0
+20104415,4415,2010,South,Elite Eight,1,2010 Duke,3,2010 Baylor,78,71,7,149,1
+20105516,5516,2010,Final Four,Final Four,5,2010 Michigan St.,5,2010 Butler,50,52,-2,102,0
+20105517,5517,2010,Final Four,Final Four,2,2010 West Virginia,1,2010 Duke,57,78,-21,135,0
+20105618,5618,2010,Final Four,Championship,5,2010 Butler,1,2010 Duke,59,61,-2,120,0
+20111101,1101,2011,East,First Round,1,2011 Ohio St.,16,2011 Texas San Antonio,75,46,29,121,1
+20111108,1108,2011,East,First Round,2,2011 North Carolina,15,2011 LIU Brooklyn,102,87,15,189,1
+20111106,1106,2011,East,First Round,3,2011 Syracuse,14,2011 Indiana St.,77,60,17,137,1
+20111104,1104,2011,East,First Round,4,2011 Kentucky,13,2011 Princeton,59,57,2,116,1
+20111103,1103,2011,East,First Round,5,2011 West Virginia,12,2011 Clemson,84,76,8,160,1
+20111105,1105,2011,East,First Round,6,2011 Xavier,11,2011 Marquette,55,66,-11,121,0
+20111107,1107,2011,East,First Round,7,2011 Washington,10,2011 Georgia,68,65,3,133,1
+20111102,1102,2011,East,First Round,8,2011 George Mason,9,2011 Villanova,61,57,4,118,1
+20111201,1201,2011,West,First Round,1,2011 Duke,16,2011 Hampton,87,45,42,132,1
+20111208,1208,2011,West,First Round,2,2011 San Diego St.,15,2011 Northern Colorado,68,50,18,118,1
+20111206,1206,2011,West,First Round,3,2011 Connecticut,14,2011 Bucknell,81,52,29,133,1
+20111204,1204,2011,West,First Round,4,2011 Texas,13,2011 Oakland,85,81,4,166,1
+20111203,1203,2011,West,First Round,5,2011 Arizona,12,2011 Memphis,77,75,2,152,1
+20111205,1205,2011,West,First Round,6,2011 Cincinnati,11,2011 Missouri,78,63,15,141,1
+20111207,1207,2011,West,First Round,7,2011 Temple,10,2011 Penn St.,66,64,2,130,1
+20111202,1202,2011,West,First Round,8,2011 Michigan,9,2011 Tennessee,75,45,30,120,1
+20111301,1301,2011,Southwest,First Round,1,2011 Kansas,16,2011 Boston,72,53,19,125,1
+20111308,1308,2011,Southwest,First Round,2,2011 Notre Dame,15,2011 Akron,69,56,13,125,1
+20111306,1306,2011,Southwest,First Round,3,2011 Purdue,14,2011 Saint Peter's,65,43,22,108,1
+20111304,1304,2011,Southwest,First Round,4,2011 Louisville,13,2011 Morehead St.,61,62,-1,123,0
+20111303,1303,2011,Southwest,First Round,5,2011 Vanderbilt,12,2011 Richmond,66,69,-3,135,0
+20111305,1305,2011,Southwest,First Round,6,2011 Georgetown,11,2011 VCU,56,74,-18,130,0
+20111307,1307,2011,Southwest,First Round,7,2011 Texas A&M,10,2011 Florida St.,50,57,-7,107,0
+20111302,1302,2011,Southwest,First Round,8,2011 UNLV,9,2011 Illinois,62,73,-11,135,0
+20111401,1401,2011,Southeast,First Round,1,2011 PIttsburgh,16,2011 UNC Asheville,74,51,23,125,1
+20111408,1408,2011,Southeast,First Round,2,2011 Florida,15,2011 UC Santa Barbara,79,51,28,130,1
+20111406,1406,2011,Southeast,First Round,3,2011 BYU,14,2011 Wofford,74,66,8,140,1
+20111404,1404,2011,Southeast,First Round,4,2011 WIsconsin,13,2011 Belmont,72,58,14,130,1
+20111403,1403,2011,Southeast,First Round,5,2011 Kansas St.,12,2011 Utah St.,73,68,5,141,1
+20111405,1405,2011,Southeast,First Round,6,2011 St. John's,11,2011 Gonzaga,71,86,-15,157,0
+20111407,1407,2011,Southeast,First Round,7,2011 UCLA,10,2011 Michigan St.,78,76,2,154,1
+20111402,1402,2011,Southeast,First Round,8,2011 Butler,9,2011 Old Dominion,60,58,2,118,1
+20112109,2109,2011,East,Second Round,1,2011 Ohio St.,8,2011 George Mason,98,66,32,164,1
+20112110,2110,2011,East,Second Round,5,2011 West Virginia,4,2011 Kentucky,63,71,-8,134,0
+20112111,2111,2011,East,Second Round,11,2011 Marquette,3,2011 Syracuse,66,62,4,128,1
+20112112,2112,2011,East,Second Round,7,2011 Washington,2,2011 North Carolina,83,86,-3,169,0
+20112209,2209,2011,West,Second Round,1,2011 Duke,8,2011 Michigan,73,71,2,144,1
+20112210,2210,2011,West,Second Round,5,2011 Arizona,4,2011 Texas,70,69,1,139,1
+20112211,2211,2011,West,Second Round,6,2011 Cincinnati,3,2011 Connecticut,58,69,-11,127,0
+20112212,2212,2011,West,Second Round,7,2011 Temple,2,2011 San Diego St.,64,71,-7,135,0
+20112309,2309,2011,Southwest,Second Round,1,2011 Kansas,9,2011 Illinois,73,59,14,132,1
+20112310,2310,2011,Southwest,Second Round,12,2011 Richmond,13,2011 Morehead St.,65,48,17,113,1
+20112311,2311,2011,Southwest,Second Round,11,2011 VCU,3,2011 Purdue,94,76,18,170,1
+20112312,2312,2011,Southwest,Second Round,10,2011 Florida St.,2,2011 Notre Dame,71,57,14,128,1
+20112409,2409,2011,Southeast,Second Round,1,2011 PIttsburgh,8,2011 Butler,70,71,-1,141,0
+20112410,2410,2011,Southeast,Second Round,5,2011 Kansas St.,4,2011 Wisconsin,65,70,-5,135,0
+20112411,2411,2011,Southeast,Second Round,11,2011 Gonzaga,3,2011 BYU,67,89,-22,156,0
+20112412,2412,2011,Southeast,Second Round,7,2011 UCLA,2,2011 Florida,65,73,-8,138,0
+20113113,3113,2011,East,Sweet 16,1,2011 Ohio St.,4,2011 Kentucky,60,62,-2,122,0
+20113113,3113,2011,East,Sweet 16,11,2011 Marquette,2,2011 North Carolina,63,81,-18,144,0
+20113213,3213,2011,West,Sweet 16,1,2011 Duke,5,2011 Arizona,77,93,-16,170,0
+20113214,3214,2011,West,Sweet 16,3,2011 Connecticut,2,2011 San Diego St.,74,67,7,141,1
+20113313,3313,2011,Southwest,Sweet 16,1,2011 Kansas,12,2011 Richmond,77,57,20,134,1
+20113314,3314,2011,Southwest,Sweet 16,11,2011 VCU,10,2011 Florida St.,72,71,1,143,1
+20113413,3413,2011,Southeast,Sweet 16,8,2011 Butler,4,2011 Wisconsin,61,54,7,115,1
+20113414,3414,2011,Southeast,Sweet 16,3,2011 BYU,2,2011 Florida,74,83,-9,157,0
+20114115,4115,2011,East,Elite Eight,4,2011 Kentucky,2,2011 North Carolina,76,69,7,145,1
+20114215,4215,2011,West,Elite Eight,5,2011 Arizona,3,2011 Connecticut,63,65,-2,128,0
+20114315,4315,2011,Southwest,Elite Eight,1,2011 Kansas,11,2011 VCU,61,71,-10,132,0
+20114415,4415,2011,Southeast,Elite Eight,8,2011 Butler,2,2011 Florida,74,71,3,145,1
+20115516,5516,2011,Final Four,Final Four,4,2011 Kentucky,3,2011 Connecticut,55,56,-1,111,0
+20115517,5517,2011,Final Four,Final Four,11,2011 VCU,8,2011 Butler,62,70,-8,132,0
+20115618,5618,2011,Final Four,Championship,3,2011 Connecticut,8,2011 Butler,53,41,12,94,1
+20121101,1101,2012,South,First Round,1,2012 Kentucky,16,2012 Western Kentucky,81,66,15,147,1
+20121108,1108,2012,South,First Round,2,2012 Duke,15,2012 Lehigh,70,75,-5,145,0
+20121106,1106,2012,South,First Round,3,2012 Baylor,14,2012 South Dakota St.,68,60,8,128,1
+20121104,1104,2012,South,First Round,4,2012 Indiana,13,2012 New Mexico St.,79,66,13,145,1
+20121103,1103,2012,South,First Round,5,2012 Wichita St.,12,2012 VCU,59,62,-3,121,0
+20121105,1105,2012,South,First Round,6,2012 UNLV,11,2012 Colorado,64,68,-4,132,0
+20121107,1107,2012,South,First Round,7,2012 Notre Dame,10,2012 Xavier,63,67,-4,130,0
+20121102,1102,2012,South,First Round,8,2012 Iowa St.,9,2012 Connecticut,77,64,13,141,1
+20121201,1201,2012,West,First Round,1,2012 Michigan St.,16,2012 LIU Brooklyn,89,67,22,156,1
+20121208,1208,2012,West,First Round,2,2012 Missouri,15,2012 Norfolk St.,84,86,-2,170,0
+20121206,1206,2012,West,First Round,3,2012 Marquette,14,2012 BYU,88,68,20,156,1
+20121204,1204,2012,West,First Round,4,2012 Louisville,13,2012 Davidson,69,62,7,131,1
+20121203,1203,2012,West,First Round,5,2012 New Mexico,12,2012 Long Beach St.,75,68,7,143,1
+20121205,1205,2012,West,First Round,6,2012 Murray St.,11,2012 Colorado St.,58,41,17,99,1
+20121207,1207,2012,West,First Round,7,2012 Florida,10,2012 Virginia,71,45,26,116,1
+20121202,1202,2012,West,First Round,8,2012 Memphis,9,2012 St. Louis,54,61,-7,115,0
+20121301,1301,2012,East,First Round,1,2012 Syracuse,16,2012 UNC Asheville,72,65,7,137,1
+20121308,1308,2012,East,First Round,2,2012 Ohio St.,15,2012 Loyola MD,78,59,19,137,1
+20121306,1306,2012,East,First Round,3,2012 Florida St.,14,2012 St. Bonaventure,66,63,3,129,1
+20121304,1304,2012,East,First Round,4,2012 WIsconsin,13,2012 Montana,73,49,24,122,1
+20121303,1303,2012,East,First Round,5,2012 Vanderbilt,12,2012 Harvard,79,70,9,149,1
+20121305,1305,2012,East,First Round,6,2012 Cincinnati,11,2012 Texas,65,59,6,124,1
+20121307,1307,2012,East,First Round,7,2012 Gonzaga,10,2012 West Virginia,77,54,23,131,1
+20121302,1302,2012,East,First Round,8,2012 Kansas St.,9,2012 Southern Miss,78,59,19,137,1
+20121401,1401,2012,Midwest,First Round,1,2012 North Carolina,16,2012 Vermont,77,58,19,135,1
+20121408,1408,2012,Midwest,First Round,2,2012 Kansas,15,2012 Detroit,65,50,15,115,1
+20121406,1406,2012,Midwest,First Round,3,2012 Georgetown,14,2012 Belmont,74,59,15,133,1
+20121404,1404,2012,Midwest,First Round,4,2012 Michigan,13,2012 Ohio,60,65,-5,125,0
+20121403,1403,2012,Midwest,First Round,5,2012 Temple,12,2012 South Florida,44,58,-14,102,0
+20121405,1405,2012,Midwest,First Round,6,2012 San Diego St.,11,2012 NC St.,65,79,-14,144,0
+20121407,1407,2012,Midwest,First Round,7,2012 Saint Mary's,10,2012 Purdue,69,72,-3,141,0
+20121402,1402,2012,Midwest,First Round,8,2012 Creighton,9,2012 Alabama,58,57,1,115,1
+20122109,2109,2012,South,Second Round,1,2012 Kentucky,8,2012 Iowa St.,87,71,16,158,1
+20122110,2110,2012,South,Second Round,12,2012 VCU,4,2012 Indiana,61,63,-2,124,0
+20122111,2111,2012,South,Second Round,11,2012 Colorado,3,2012 Baylor,63,80,-17,143,0
+20122112,2112,2012,South,Second Round,10,2012 Xavier,15,2012 Lehigh,70,58,12,128,1
+20122209,2209,2012,West,Second Round,1,2012 Michigan St.,9,2012 St. Louis,65,61,4,126,1
+20122210,2210,2012,West,Second Round,5,2012 New Mexico,4,2012 Louisville,56,59,-3,115,0
+20122211,2211,2012,West,Second Round,6,2012 Murray St.,3,2012 Marquette,53,62,-9,115,0
+20122212,2212,2012,West,Second Round,7,2012 Florida,15,2012 Norfolk St.,84,50,34,134,1
+20122309,2309,2012,East,Second Round,1,2012 Syracuse,8,2012 Kansas St.,75,59,16,134,1
+20122310,2310,2012,East,Second Round,5,2012 Vanderbilt,4,2012 Wisconsin,57,60,-3,117,0
+20122311,2311,2012,East,Second Round,6,2012 Cincinnati,3,2012 Florida St.,62,56,6,118,1
+20122312,2312,2012,East,Second Round,7,2012 Gonzaga,2,2012 Ohio St.,66,73,-7,139,0
+20122409,2409,2012,Midwest,Second Round,1,2012 North Carolina,8,2012 Creighton,87,73,14,160,1
+20122410,2410,2012,Midwest,Second Round,12,2012 South Florida,13,2012 Ohio,56,62,-6,118,0
+20122411,2411,2012,Midwest,Second Round,11,2012 NC St.,3,2012 Georgetown,66,63,3,129,1
+20122412,2412,2012,Midwest,Second Round,10,2012 Purdue,2,2012 Kansas,60,63,-3,123,0
+20123113,3113,2012,South,Sweet 16,1,2012 Kentucky,4,2012 Indiana,102,90,12,192,1
+20123113,3113,2012,South,Sweet 16,3,2012 Baylor,10,2012 Xavier,75,70,5,145,1
+20123213,3213,2012,West,Sweet 16,1,2012 Michigan St.,4,2012 Louisville,44,57,-13,101,0
+20123214,3214,2012,West,Sweet 16,3,2012 Marquette,7,2012 Florida,58,68,-10,126,0
+20123313,3313,2012,East,Sweet 16,1,2012 Syracuse,4,2012 Wisconsin,64,63,1,127,1
+20123314,3314,2012,East,Sweet 16,6,2012 Cincinnati,2,2012 Ohio St.,66,81,-15,147,0
+20123413,3413,2012,Midwest,Sweet 16,1,2012 North Carolina,13,2012 Ohio,73,65,8,138,1
+20123414,3414,2012,Midwest,Sweet 16,11,2012 NC St.,2,2012 Kansas,57,60,-3,117,0
+20124115,4115,2012,South,Elite Eight,1,2012 Kentucky,3,2012 Baylor,82,70,12,152,1
+20124215,4215,2012,West,Elite Eight,4,2012 Louisville,7,2012 Florida,72,68,4,140,1
+20124315,4315,2012,East,Elite Eight,1,2012 Syracuse,2,2012 Ohio St.,70,77,-7,147,0
+20124415,4415,2012,Midwest,Elite Eight,1,2012 North Carolina,2,2012 Kansas,67,80,-13,147,0
+20125516,5516,2012,Final Four,Final Four,1,2012 Kentucky,4,2012 Louisville,69,61,8,130,1
+20125517,5517,2012,Final Four,Final Four,2,2012 Ohio St.,2,2012 Kansas,62,64,-2,126,0
+20125618,5618,2012,Final Four,Championship,1,2012 Kentucky,2,2012 Kansas,67,59,8,126,1
+20131101,1101,2013,Midwest,First Round,1,2013 Louisville,16,2013 North Carolina A&T,79,48,31,127,1
+20131108,1108,2013,Midwest,First Round,2,2013 Duke,15,2013 Albany,73,61,12,134,1
+20131106,1106,2013,Midwest,First Round,3,2013 Michigan St.,14,2013 Valparaiso,65,54,11,119,1
+20131104,1104,2013,Midwest,First Round,4,2013 St. Louis,13,2013 New Mexico St.,64,44,20,108,1
+20131103,1103,2013,Midwest,First Round,5,2013 Oklahoma St.,12,2013 Oregon,55,68,-13,123,0
+20131105,1105,2013,Midwest,First Round,6,2013 Memphis,11,2013 Saint Mary's,54,52,2,106,1
+20131107,1107,2013,Midwest,First Round,7,2013 Creighton,10,2013 Cincinnati,67,63,4,130,1
+20131102,1102,2013,Midwest,First Round,8,2013 Colorado St.,9,2013 Missouri,84,72,12,156,1
+20131201,1201,2013,West,First Round,1,2013 Gonzaga,16,2013 Southern,64,58,6,122,1
+20131208,1208,2013,West,First Round,2,2013 Ohio St.,15,2013 Iona,95,70,25,165,1
+20131206,1206,2013,West,First Round,3,2013 New Mexico,14,2013 Harvard,62,68,-6,130,0
+20131204,1204,2013,West,First Round,4,2013 Kansas St.,13,2013 La Salle,61,63,-2,124,0
+20131203,1203,2013,West,First Round,5,2013 WIsconsin,12,2013 Mississippi,46,57,-11,103,0
+20131205,1205,2013,West,First Round,6,2013 Arizona,11,2013 Belmont,81,64,17,145,1
+20131207,1207,2013,West,First Round,7,2013 Notre Dame,10,2013 Iowa St.,58,76,-18,134,0
+20131202,1202,2013,West,First Round,8,2013 Pittsburgh,9,2013 Wichita St.,55,73,-18,128,0
+20131301,1301,2013,South,First Round,1,2013 Kansas,16,2013 Western Kentucky,64,57,7,121,1
+20131308,1308,2013,South,First Round,2,2013 Georgetown,15,2013 Florida Gulf Coast,68,78,-10,146,0
+20131306,1306,2013,South,First Round,3,2013 Florida,14,2013 Northwestern St.,79,47,32,126,1
+20131304,1304,2013,South,First Round,4,2013 Michigan,13,2013 South Dakota St.,71,56,15,127,1
+20131303,1303,2013,South,First Round,5,2013 VCU,12,2013 Akron,88,42,46,130,1
+20131305,1305,2013,South,First Round,6,2013 UCLA,11,2013 Minnesota,63,83,-20,146,0
+20131307,1307,2013,South,First Round,7,2013 San Diego St.,10,2013 Oklahoma,70,55,15,125,1
+20131302,1302,2013,South,First Round,8,2013 North Carolina,9,2013 Villanova,78,71,7,149,1
+20131401,1401,2013,East,First Round,1,2013 Indiana,16,2013 James Madison,83,62,21,145,1
+20131408,1408,2013,East,First Round,2,2013 Miami FL,15,2013 Pacific,72,76,-4,148,0
+20131406,1406,2013,East,First Round,3,2013 Marquette,14,2013 Davidson,61,64,-3,125,0
+20131404,1404,2013,East,First Round,4,2013 Syracuse,13,2013 Montana,81,34,47,115,1
+20131403,1403,2013,East,First Round,5,2013 UNLV,12,2013 California,61,64,-3,125,0
+20131405,1405,2013,East,First Round,6,2013 Butler,11,2013 Bucknell,68,56,12,124,1
+20131407,1407,2013,East,First Round,7,2013 Illinois,10,2013 Colorado,57,49,8,106,1
+20131402,1402,2013,East,First Round,8,2013 NC St.,9,2013 Temple,72,76,-4,148,0
+20132109,2109,2013,Midwest,Second Round,1,2013 Louisville,8,2013 Colorado St.,82,56,26,138,1
+20132110,2110,2013,Midwest,Second Round,12,2013 Oregon,4,2013 St. Louis,74,57,17,131,1
+20132111,2111,2013,Midwest,Second Round,6,2013 Memphis,3,2013 Michigan St.,48,70,-22,118,0
+20132112,2112,2013,Midwest,Second Round,7,2013 Creighton,2,2013 Duke,50,66,-16,116,0
+20132209,2209,2013,West,Second Round,1,2013 Gonzaga,9,2013 Wichita St.,70,76,-6,146,0
+20132210,2210,2013,West,Second Round,12,2013 Mississippi,13,2013 La Salle,74,76,-2,150,0
+20132211,2211,2013,West,Second Round,6,2013 Arizona,14,2013 Harvard,74,51,23,125,1
+20132212,2212,2013,West,Second Round,10,2013 Iowa St.,2,2013 Ohio St.,75,78,-3,153,0
+20132309,2309,2013,South,Second Round,1,2013 Kansas,8,2013 North Carolina,70,58,12,128,1
+20132310,2310,2013,South,Second Round,5,2013 VCU,4,2013 Michigan,53,78,-25,131,0
+20132311,2311,2013,South,Second Round,11,2013 Minnesota,3,2013 Florida,64,78,-14,142,0
+20132312,2312,2013,South,Second Round,7,2013 San Diego St.,15,2013 Florida Gulf Coast,71,81,-10,152,0
+20132409,2409,2013,East,Second Round,1,2013 Indiana,9,2013 Temple,58,52,6,110,1
+20132410,2410,2013,East,Second Round,12,2013 California,4,2013 Syracuse,60,66,-6,126,0
+20132411,2411,2013,East,Second Round,6,2013 Butler,3,2013 Marquette,72,74,-2,146,0
+20132412,2412,2013,East,Second Round,7,2013 Illinois,2,2013 Miami FL,59,63,-4,122,0
+20133113,3113,2013,Midwest,Sweet 16,1,2013 Louisville,12,2013 Oregon,77,69,8,146,1
+20133113,3113,2013,Midwest,Sweet 16,3,2013 Michigan St.,2,2013 Duke,61,71,-10,132,0
+20133213,3213,2013,West,Sweet 16,9,2013 Wichita St.,13,2013 La Salle,72,58,14,130,1
+20133214,3214,2013,West,Sweet 16,6,2013 Arizona,2,2013 Ohio St.,70,73,-3,143,0
+20133313,3313,2013,South,Sweet 16,1,2013 Kansas,4,2013 Michigan,85,87,-2,172,0
+20133314,3314,2013,South,Sweet 16,3,2013 Florida,15,2013 Florida Gulf Coast,62,50,12,112,1
+20133413,3413,2013,East,Sweet 16,1,2013 Indiana,4,2013 Syracuse,50,61,-11,111,0
+20133414,3414,2013,East,Sweet 16,3,2013 Marquette,2,2013 Miami FL,71,61,10,132,1
+20134115,4115,2013,Midwest,Elite Eight,1,2013 Louisville,2,2013 Duke,85,63,22,148,1
+20134215,4215,2013,West,Elite Eight,9,2013 Wichita St.,2,2013 Ohio St.,70,66,4,136,1
+20134315,4315,2013,South,Elite Eight,4,2013 Michigan,3,2013 Florida,79,59,20,138,1
+20134415,4415,2013,East,Elite Eight,4,2013 Syracuse,3,2013 Marquette,55,39,16,94,1
+20135516,5516,2013,Final Four,Final Four,1,2013 Louisville,9,2013 Wichita St.,72,68,4,140,1
+20135517,5517,2013,Final Four,Final Four,4,2013 Michigan,4,2013 Syracuse,61,56,5,117,1
+20135618,5618,2013,Final Four,Championship,1,2013 Louisville,4,2013 Michigan,82,76,6,158,1
+20141101,1101,2014,South,First Round,1,2014 Florida,16,2014 Albany,67,55,12,122,1
+20141108,1108,2014,South,First Round,2,2014 Kansas,15,2014 Eastern Kentucky,80,69,11,149,1
+20141106,1106,2014,South,First Round,3,2014 Syracuse,14,2014 Western Michigan,77,53,24,130,1
+20141104,1104,2014,South,First Round,4,2014 UCLA,13,2014 Tulsa,76,59,17,135,1
+20141103,1103,2014,South,First Round,5,2014 VCU,12,2014 Stephen F. Austin,75,77,-2,152,0
+20141105,1105,2014,South,First Round,6,2014 Ohio St.,11,2014 Dayton,59,60,-1,119,0
+20141107,1107,2014,South,First Round,7,2014 New Mexico,10,2014 Stanford,53,58,-5,111,0
+20141102,1102,2014,South,First Round,8,2014 Colorado,9,2014 Pittsburgh,48,77,-29,125,0
+20141201,1201,2014,East,First Round,1,2014 Virginia,16,2014 Coastal Carolina,70,59,11,129,1
+20141208,1208,2014,East,First Round,2,2014 Villanova,15,2014 Milwaukee,73,53,20,126,1
+20141206,1206,2014,East,First Round,3,2014 Iowa St.,14,2014 North Carolina Central,93,75,18,168,1
+20141204,1204,2014,East,First Round,4,2014 Michigan St.,13,2014 Delaware,93,78,15,171,1
+20141203,1203,2014,East,First Round,5,2014 Cincinnati,12,2014 Harvard,57,61,-4,118,0
+20141205,1205,2014,East,First Round,6,2014 North Carolina,11,2014 Providence,79,77,2,156,1
+20141207,1207,2014,East,First Round,7,2014 Connecticut,10,2014 Saint Joseph's,89,81,8,170,1
+20141202,1202,2014,East,First Round,8,2014 Memphis,9,2014 George Washington,71,66,5,137,1
+20141301,1301,2014,West,First Round,1,2014 Arizona,16,2014 Weber St.,68,59,9,127,1
+20141308,1308,2014,West,First Round,2,2014 WIsconsin,15,2014 American,75,35,40,110,1
+20141306,1306,2014,West,First Round,3,2014 Creighton,14,2014 Louisiana,76,66,10,142,1
+20141304,1304,2014,West,First Round,4,2014 San Diego St.,13,2014 New Mexico St.,73,69,4,142,1
+20141303,1303,2014,West,First Round,5,2014 Oklahoma,12,2014 North Dakota St.,75,80,-5,155,0
+20141305,1305,2014,West,First Round,6,2014 Baylor,11,2014 Nebraska,74,60,14,134,1
+20141307,1307,2014,West,First Round,7,2014 Oregon,10,2014 BYU,87,68,19,155,1
+20141302,1302,2014,West,First Round,8,2014 Gonzaga,9,2014 Oklahoma St.,85,77,8,162,1
+20141401,1401,2014,Midwest,First Round,1,2014 Wichita St.,16,2014 Cal Poly,64,37,27,101,1
+20141408,1408,2014,Midwest,First Round,2,2014 Michigan,15,2014 Wofford,57,40,17,97,1
+20141406,1406,2014,Midwest,First Round,3,2014 Duke,14,2014 Mercer,71,78,-7,149,0
+20141404,1404,2014,Midwest,First Round,4,2014 Louisville,13,2014 Manhattan,71,64,7,135,1
+20141403,1403,2014,Midwest,First Round,5,2014 St. Louis,12,2014 NC St.,83,80,3,163,1
+20141405,1405,2014,Midwest,First Round,6,2014 Massachusetts,11,2014 Tennessee,67,86,-19,153,0
+20141407,1407,2014,Midwest,First Round,7,2014 Texas,10,2014 Arizona St.,87,85,2,172,1
+20141402,1402,2014,Midwest,First Round,8,2014 Kentucky,9,2014 Kansas St.,56,49,7,105,1
+20142109,2109,2014,South,Second Round,1,2014 Florida,9,2014 Pittsburgh,61,45,16,106,1
+20142110,2110,2014,South,Second Round,12,2014 Stephen F. Austin,4,2014 UCLA,60,77,-17,137,0
+20142111,2111,2014,South,Second Round,11,2014 Dayton,3,2014 Syracuse,55,53,2,108,1
+20142112,2112,2014,South,Second Round,10,2014 Stanford,2,2014 Kansas,60,57,3,117,1
+20142209,2209,2014,East,Second Round,1,2014 Virginia,8,2014 Memphis,78,60,18,138,1
+20142210,2210,2014,East,Second Round,12,2014 Harvard,4,2014 Michigan St.,73,80,-7,153,0
+20142211,2211,2014,East,Second Round,6,2014 North Carolina,3,2014 Iowa St.,83,85,-2,168,0
+20142212,2212,2014,East,Second Round,7,2014 Connecticut,2,2014 Villanova,77,65,12,142,1
+20142309,2309,2014,West,Second Round,1,2014 Arizona,8,2014 Gonzaga,84,61,23,145,1
+20142310,2310,2014,West,Second Round,12,2014 North Dakota St.,4,2014 San Diego St.,44,63,-19,107,0
+20142311,2311,2014,West,Second Round,6,2014 Baylor,3,2014 Creighton,85,55,30,140,1
+20142312,2312,2014,West,Second Round,7,2014 Oregon,2,2014 Wisconsin,77,85,-8,162,0
+20142409,2409,2014,Midwest,Second Round,1,2014 Wichita St.,8,2014 Kentucky,76,78,-2,154,0
+20142410,2410,2014,Midwest,Second Round,5,2014 St. Louis,4,2014 Louisville,51,66,-15,117,0
+20142411,2411,2014,Midwest,Second Round,11,2014 Tennessee,14,2014 Mercer,83,63,20,146,1
+20142412,2412,2014,Midwest,Second Round,7,2014 Texas,2,2014 Michigan,65,79,-14,144,0
+20143113,3113,2014,South,Sweet 16,1,2014 Florida,4,2014 UCLA,79,68,11,147,1
+20143113,3113,2014,South,Sweet 16,11,2014 Dayton,10,2014 Stanford,82,72,10,154,1
+20143213,3213,2014,East,Sweet 16,1,2014 Virginia,4,2014 Michigan St.,59,61,-2,120,0
+20143214,3214,2014,East,Sweet 16,3,2014 Iowa St.,7,2014 Connecticut,76,81,-5,157,0
+20143313,3313,2014,West,Sweet 16,1,2014 Arizona,4,2014 San Diego St.,70,64,6,134,1
+20143314,3314,2014,West,Sweet 16,6,2014 Baylor,2,2014 Wisconsin,52,69,-17,121,0
+20143413,3413,2014,Midwest,Sweet 16,8,2014 Kentucky,4,2014 Louisville,74,69,5,143,1
+20143414,3414,2014,Midwest,Sweet 16,11,2014 Tennessee,2,2014 Michigan,71,73,-2,144,0
+20144115,4115,2014,South,Elite Eight,1,2014 Florida,11,2014 Dayton,62,52,10,114,1
+20144215,4215,2014,East,Elite Eight,4,2014 Michigan St.,7,2014 Connecticut,54,60,-6,114,0
+20144315,4315,2014,West,Elite Eight,1,2014 Arizona,2,2014 Wisconsin,63,64,-1,127,0
+20144415,4415,2014,Midwest,Elite Eight,8,2014 Kentucky,2,2014 Michigan,75,72,3,147,1
+20145516,5516,2014,Final Four,Final Four,8,2014 Kentucky,2,2014 Wisconsin,74,73,1,147,1
+20145517,5517,2014,Final Four,Final Four,7,2014 Connecticut,1,2014 Florida,63,53,10,116,1
+20145618,5618,2014,Final Four,Championship,8,2014 Kentucky,7,2014 Connecticut,54,60,-6,114,0
+20151101,1101,2015,Midwest,First Round,1,2015 Kentucky,16,2015 Hampton,79,56,23,135,1
+20151108,1108,2015,Midwest,First Round,2,2015 Kansas,15,2015 New Mexico St.,75,56,19,131,1
+20151106,1106,2015,Midwest,First Round,3,2015 Notre Dame,14,2015 Northeastern,69,65,4,134,1
+20151104,1104,2015,Midwest,First Round,4,2015 Maryland,13,2015 Valparaiso,65,62,3,127,1
+20151103,1103,2015,Midwest,First Round,5,2015 West Virginia,12,2015 Buffalo,68,62,6,130,1
+20151105,1105,2015,Midwest,First Round,6,2015 Butler,11,2015 Texas,56,48,8,104,1
+20151107,1107,2015,Midwest,First Round,7,2015 Wichita St.,10,2015 Indiana,81,76,5,157,1
+20151102,1102,2015,Midwest,First Round,8,2015 Cincinnati,9,2015 Purdue,66,65,1,131,1
+20151201,1201,2015,West,First Round,1,2015 WIsconsin,16,2015 Coastal Carolina,86,72,14,158,1
+20151208,1208,2015,West,First Round,2,2015 Arizona,15,2015 Texas Southern,93,72,21,165,1
+20151206,1206,2015,West,First Round,3,2015 Baylor,14,2015 Georgia St.,56,57,-1,113,0
+20151204,1204,2015,West,First Round,4,2015 North Carolina,13,2015 Harvard,67,65,2,132,1
+20151203,1203,2015,West,First Round,5,2015 Arkansas,12,2015 Wofford,56,53,3,109,1
+20151205,1205,2015,West,First Round,6,2015 Xavier,11,2015 Mississippi,76,57,19,133,1
+20151207,1207,2015,West,First Round,7,2015 VCU,10,2015 Ohio St.,72,75,-3,147,0
+20151202,1202,2015,West,First Round,8,2015 Oregon,9,2015 Oklahoma St.,79,73,6,152,1
+20151301,1301,2015,East,First Round,1,2015 Villanova,16,2015 Lafayette,93,52,41,145,1
+20151308,1308,2015,East,First Round,2,2015 Virginia,15,2015 Belmont,79,67,12,146,1
+20151306,1306,2015,East,First Round,3,2015 Oklahoma,14,2015 Albany,69,60,9,129,1
+20151304,1304,2015,East,First Round,4,2015 Louisville,13,2015 UC Irvine,57,55,2,112,1
+20151303,1303,2015,East,First Round,5,2015 Northern Iowa,12,2015 Wyoming,71,54,17,125,1
+20151305,1305,2015,East,First Round,6,2015 Providence,11,2015 Dayton,53,66,-13,119,0
+20151307,1307,2015,East,First Round,7,2015 Michigan St.,10,2015 Georgia,70,63,7,133,1
+20151302,1302,2015,East,First Round,8,2015 NC St.,9,2015 LSU,66,65,1,131,1
+20151401,1401,2015,South,First Round,1,2015 Duke,16,2015 Robert Morris,85,56,29,141,1
+20151408,1408,2015,South,First Round,2,2015 Gonzaga,15,2015 North Dakota St.,86,76,10,162,1
+20151406,1406,2015,South,First Round,3,2015 Iowa St.,14,2015 UAB,59,60,-1,119,0
+20151404,1404,2015,South,First Round,4,2015 Georgetown,13,2015 Eastern Washington,84,74,10,158,1
+20151403,1403,2015,South,First Round,5,2015 Utah,12,2015 Stephen F. Austin,57,50,7,107,1
+20151405,1405,2015,South,First Round,6,2015 SMU,11,2015 UCLA,59,60,-1,119,0
+20151407,1407,2015,South,First Round,7,2015 Iowa,10,2015 Davidson,83,52,31,135,1
+20151402,1402,2015,South,First Round,8,2015 San Diego St.,9,2015 St. John's,76,64,12,140,1
+20152109,2109,2015,Midwest,Second Round,1,2015 Kentucky,8,2015 Cincinnati,64,51,13,115,1
+20152110,2110,2015,Midwest,Second Round,5,2015 West Virginia,4,2015 Maryland,69,59,10,128,1
+20152111,2111,2015,Midwest,Second Round,6,2015 Butler,3,2015 Notre Dame,64,67,-3,131,0
+20152112,2112,2015,Midwest,Second Round,7,2015 Wichita St.,2,2015 Kansas,78,65,13,143,1
+20152209,2209,2015,West,Second Round,1,2015 Wisconsin,8,2015 Oregon,72,65,7,137,1
+20152210,2210,2015,West,Second Round,5,2015 Arkansas,4,2015 North Carolina,78,87,-9,165,0
+20152211,2211,2015,West,Second Round,6,2015 Xavier,14,2015 Georgia St.,75,67,8,142,1
+20152212,2212,2015,West,Second Round,10,2015 Ohio St.,2,2015 Arizona,58,73,-15,131,0
+20152309,2309,2015,East,Second Round,1,2015 Villanova,8,2015 NC St.,68,71,-3,139,0
+20152310,2310,2015,East,Second Round,5,2015 Northern Iowa,4,2015 Louisville,53,66,-13,119,0
+20152311,2311,2015,East,Second Round,11,2015 Dayton,3,2015 Oklahoma,66,72,-6,138,0
+20152312,2312,2015,East,Second Round,7,2015 Michigan St.,2,2015 Virginia,60,54,6,114,1
+20152409,2409,2015,South,Second Round,1,2015 Duke,8,2015 San Diego St.,68,49,19,117,1
+20152410,2410,2015,South,Second Round,5,2015 Utah,4,2015 Georgetown,75,64,11,139,1
+20152411,2411,2015,South,Second Round,11,2015 UCLA,14,2015 UAB,92,75,17,167,1
+20152412,2412,2015,South,Second Round,7,2015 Iowa,2,2015 Gonzaga,68,87,-19,155,0
+20153113,3113,2015,Midwest,Sweet 16,1,2015 Kentucky,5,2015 West Virginia,78,39,39,117,1
+20153113,3113,2015,Midwest,Sweet 16,3,2015 Notre Dame,7,2015 Wichita St.,81,70,11,151,1
+20153213,3213,2015,West,Sweet 16,1,2015 Wisconsin,4,2015 North Carolina,79,72,7,151,1
+20153214,3214,2015,West,Sweet 16,6,2015 Xavier,2,2015 Arizona,60,68,-8,128,0
+20153313,3313,2015,East,Sweet 16,8,2015 NC St.,4,2015 Louisville,65,75,-10,140,0
+20153314,3314,2015,East,Sweet 16,3,2015 Oklahoma,7,2015 Michigan St.,58,62,-4,120,0
+20153413,3413,2015,South,Sweet 16,1,2015 Duke,5,2015 Utah,63,57,6,120,1
+20153414,3414,2015,South,Sweet 16,11,2015 UCLA,2,2015 Gonzaga,62,74,-12,136,0
+20154115,4115,2015,Midwest,Elite Eight,1,2015 Kentucky,3,2015 Notre Dame,68,66,2,134,1
+20154215,4215,2015,West,Elite Eight,1,2015 Wisconsin,2,2015 Arizona,85,78,7,163,1
+20154315,4315,2015,East,Elite Eight,4,2015 Louisville,7,2015 Michigan St.,70,76,-6,146,0
+20154415,4415,2015,South,Elite Eight,1,2015 Duke,2,2015 Gonzaga,66,52,14,118,1
+20155516,5516,2015,Final Four,Final Four,1,2015 Kentucky,1,2015 Wisconsin,64,71,-7,135,0
+20155517,5517,2015,Final Four,Final Four,7,2015 Michigan St.,1,2015 Duke,61,81,-20,142,0
+20155618,5618,2015,Final Four,Championship,1,2015 Wisconsin,1,2015 Duke,63,68,-5,131,0
+20161101,1101,2016,South,First Round,1,2016 Kansas,16,2016 Austin Peay,105,79,26,184,1
+20161108,1108,2016,South,First Round,2,2016 Villanova,15,2016 UNC Asheville,86,56,30,142,1
+20161106,1106,2016,South,First Round,3,2016 Miami FL,14,2016 Buffalo,79,72,7,151,1
+20161104,1104,2016,South,First Round,4,2016 California,13,2016 Hawaii,66,77,-11,143,0
+20161103,1103,2016,South,First Round,5,2016 Maryland,12,2016 South Dakota St.,79,74,5,153,1
+20161105,1105,2016,South,First Round,6,2016 Arizona,11,2016 Wichita St.,55,65,-10,120,0
+20161107,1107,2016,South,First Round,7,2016 Iowa,10,2016 Temple,72,70,2,142,1
+20161102,1102,2016,South,First Round,8,2016 Colorado,9,2016 Connecticut,67,74,-7,141,0
+20161201,1201,2016,West,First Round,1,2016 Oregon,16,2016 Holy Cross,91,52,39,143,1
+20161208,1208,2016,West,First Round,2,2016 Oklahoma,15,2016 Cal St. Bakersfield,82,68,14,150,1
+20161206,1206,2016,West,First Round,3,2016 Texas A&M,14,2016 Green Bay,92,65,27,157,1
+20161204,1204,2016,West,First Round,4,2016 Duke,13,2016 UNC WIlmington,93,85,8,178,1
+20161203,1203,2016,West,First Round,5,2016 Baylor,12,2016 Yale,75,79,-4,154,0
+20161205,1205,2016,West,First Round,6,2016 Texas,11,2016 Northern Iowa,72,75,-3,147,0
+20161207,1207,2016,West,First Round,7,2016 Oregon St.,10,2016 VCU,67,75,-8,142,0
+20161202,1202,2016,West,First Round,8,2016 Saint Joseph's,9,2016 Cincinnati,78,76,2,154,1
+20161301,1301,2016,East,First Round,1,2016 North Carolina,16,2016 Florida Gulf Coast,83,67,16,150,1
+20161308,1308,2016,East,First Round,2,2016 Xavier,15,2016 Weber St.,71,53,18,124,1
+20161306,1306,2016,East,First Round,3,2016 West Virginia,14,2016 Stephen F. Austin,56,70,-14,126,0
+20161304,1304,2016,East,First Round,4,2016 Kentucky,13,2016 Stony Brook,85,57,28,142,1
+20161303,1303,2016,East,First Round,5,2016 Indiana,12,2016 Chattanooga,99,74,25,173,1
+20161305,1305,2016,East,First Round,6,2016 Notre Dame,11,2016 Michigan,70,63,7,133,1
+20161307,1307,2016,East,First Round,7,2016 WIsconsin,10,2016 Pittsburgh,47,43,4,90,1
+20161302,1302,2016,East,First Round,8,2016 USC,9,2016 Providence,69,70,-1,139,0
+20161401,1401,2016,Midwest,First Round,1,2016 Virginia,16,2016 Hampton,81,45,36,126,1
+20161408,1408,2016,Midwest,First Round,2,2016 Michigan St.,15,2016 Middle Tennessee,81,90,-9,171,0
+20161406,1406,2016,Midwest,First Round,3,2016 Utah,14,2016 Fresno St.,80,69,11,149,1
+20161404,1404,2016,Midwest,First Round,4,2016 Iowa St.,13,2016 Iona,94,81,13,175,1
+20161403,1403,2016,Midwest,First Round,5,2016 Purdue,12,2016 Little Rock,83,85,-2,168,0
+20161405,1405,2016,Midwest,First Round,6,2016 Seton Hall,11,2016 Gonzaga,52,68,-16,120,0
+20161407,1407,2016,Midwest,First Round,7,2016 Dayton,10,2016 Syracuse,51,70,-19,121,0
+20161402,1402,2016,Midwest,First Round,8,2016 Texas Tech,9,2016 Butler,61,71,-10,132,0
+20162109,2109,2016,South,Second Round,1,2016 Kansas,9,2016 Connecticut,73,61,12,134,1
+20162110,2110,2016,South,Second Round,5,2016 Maryland,13,2016 Hawaii,73,60,13,133,1
+20162111,2111,2016,South,Second Round,11,2016 Wichita St.,3,2016 Miami FL,57,65,-8,122,0
+20162112,2112,2016,South,Second Round,7,2016 Iowa,2,2016 Villanova,68,87,-19,155,0
+20162209,2209,2016,West,Second Round,1,2016 Oregon,8,2016 Saint Joseph's,69,64,5,133,1
+20162210,2210,2016,West,Second Round,12,2016 Yale,4,2016 Duke,64,71,-7,135,0
+20162211,2211,2016,West,Second Round,11,2016 Northern Iowa,3,2016 Texas A&M,88,92,-4,180,0
+20162212,2212,2016,West,Second Round,10,2016 VCU,2,2016 Oklahoma,81,85,-4,166,0
+20162309,2309,2016,East,Second Round,1,2016 North Carolina,9,2016 Providence,85,66,19,151,1
+20162310,2310,2016,East,Second Round,5,2016 Indiana,4,2016 Kentucky,73,67,6,140,1
+20162311,2311,2016,East,Second Round,6,2016 Notre Dame,14,2016 Stephen F. Austin,76,75,1,151,1
+20162312,2312,2016,East,Second Round,7,2016 Wisconsin,2,2016 Xavier,66,63,3,129,1
+20162409,2409,2016,Midwest,Second Round,1,2016 Virginia,9,2016 Butler,77,69,8,146,1
+20162410,2410,2016,Midwest,Second Round,12,2016 Little Rock,4,2016 Iowa St.,61,78,-17,139,0
+20162411,2411,2016,Midwest,Second Round,11,2016 Gonzaga,3,2016 Utah,82,59,23,141,1
+20162412,2412,2016,Midwest,Second Round,10,2016 Syracuse,15,2016 Middle Tennessee,75,50,25,125,1
+20163113,3113,2016,South,Sweet 16,1,2016 Kansas,5,2016 Maryland,79,63,16,142,1
+20163113,3113,2016,South,Sweet 16,3,2016 Miami FL,2,2016 Villanova,69,92,-23,161,0
+20163213,3213,2016,West,Sweet 16,1,2016 Oregon,4,2016 Duke,82,68,14,150,1
+20163214,3214,2016,West,Sweet 16,3,2016 Texas A&M,2,2016 Oklahoma,63,77,-14,140,0
+20163313,3313,2016,East,Sweet 16,1,2016 North Carolina,5,2016 Indiana,101,86,15,187,1
+20163314,3314,2016,East,Sweet 16,6,2016 Notre Dame,7,2016 Wisconsin,61,56,5,117,1
+20163413,3413,2016,Midwest,Sweet 16,1,2016 Virginia,4,2016 Iowa St.,84,71,13,155,1
+20163414,3414,2016,Midwest,Sweet 16,11,2016 Gonzaga,10,2016 Syracuse,60,63,-3,123,0
+20164115,4115,2016,South,Elite Eight,1,2016 Kansas,2,2016 Villanova,59,64,-5,123,0
+20164215,4215,2016,West,Elite Eight,1,2016 Oregon,2,2016 Oklahoma,68,80,-12,148,0
+20164315,4315,2016,East,Elite Eight,1,2016 North Carolina,6,2016 Notre Dame,88,74,14,162,1
+20164415,4415,2016,Midwest,Elite Eight,1,2016 Virginia,10,2016 Syracuse,62,68,-6,130,0
+20165516,5516,2016,Final Four,Final Four,2,2016 Villanova,2,2016 Oklahoma,95,51,44,146,1
+20165517,5517,2016,Final Four,Final Four,1,2016 North Carolina,10,2016 Syracuse,83,66,17,149,1
+20165618,5618,2016,Final Four,Championship,2,2016 Villanova,1,2016 North Carolina,77,74,3,151,1
+20171101,1101,2017,East,First Round,1,2017 Villanova,16,2017 Mount St. Mary's,76,56,20,132,1
+20171108,1108,2017,East,First Round,2,2017 Duke,15,2017 Troy,87,65,22,152,1
+20171106,1106,2017,East,First Round,3,2017 Baylor,14,2017 New Mexico St.,91,73,18,164,1
+20171104,1104,2017,East,First Round,4,2017 Florida,13,2017 East Tennesse St.,80,65,15,145,1
+20171103,1103,2017,East,First Round,5,2017 Virginia,12,2017 UNC Wilmington,76,71,5,147,1
+20171105,1105,2017,East,First Round,6,2017 SMU,11,2017 USC,65,66,-1,131,0
+20171107,1107,2017,East,First Round,7,2017 South Carolina,10,2017 Marquette,93,73,20,166,1
+20171102,1102,2017,East,First Round,8,2017 Wisconsin,9,2017 Virginia Tech,84,74,10,158,1
+20171201,1201,2017,West,First Round,1,2017 Gonzaga,16,2017 South Dakota St.,66,46,20,112,1
+20171208,1208,2017,West,First Round,2,2017 Arizona,15,2017 North Dakota,100,82,18,182,1
+20171206,1206,2017,West,First Round,3,2017 Florida St.,14,2017 Florida Gulf Coast,86,80,6,166,1
+20171204,1204,2017,West,First Round,4,2017 West Virginia,13,2017 Bucknell,86,80,6,166,1
+20171203,1203,2017,West,First Round,5,2017 Notre Dame,12,2017 Princeton,60,58,2,118,1
+20171205,1205,2017,West,First Round,6,2017 Maryland,11,2017 Xavier,65,76,-11,141,0
+20171207,1207,2017,West,First Round,7,2017 Saint Mary's,10,2017 VCU,85,77,8,162,1
+20171202,1202,2017,West,First Round,8,2017 Northwestern,9,2017 Vanderbilt,68,66,2,134,1
+20171301,1301,2017,Midwest,First Round,1,2017 Kansas,16,2017 UC Davis,100,62,38,162,1
+20171308,1308,2017,Midwest,First Round,2,2017 Louisville,15,2017 Jacksonville St.,78,63,15,141,1
+20171306,1306,2017,Midwest,First Round,3,2017 Oregon,14,2017 Iona,93,77,16,170,1
+20171304,1304,2017,Midwest,First Round,4,2017 Purdue,13,2017 Vermont,80,70,10,150,1
+20171303,1303,2017,Midwest,First Round,5,2017 Iowa St.,12,2017 Nevada,84,73,11,157,1
+20171305,1305,2017,Midwest,First Round,6,2017 Creighton,11,2017 Rhode Island,72,84,-12,156,0
+20171307,1307,2017,Midwest,First Round,7,2017 Michigan,10,2017 Oklahoma St.,92,91,1,183,1
+20171302,1302,2017,Midwest,First Round,8,2017 Miami FL,9,2017 Michigan St.,58,78,-20,136,0
+20171401,1401,2017,South,First Round,1,2017 North Carolina,16,2017 Texas Southern,103,64,39,167,1
+20171408,1408,2017,South,First Round,2,2017 Kentucky,15,2017 Northern Kentucky,79,70,9,149,1
+20171406,1406,2017,South,First Round,3,2017 UCLA,14,2017 Kent St.,97,80,17,177,1
+20171404,1404,2017,South,First Round,4,2017 Butler,13,2017 Winthrop,76,64,12,140,1
+20171403,1403,2017,South,First Round,5,2017 Minnesota,12,2017 Middle Tennessee,72,81,-9,153,0
+20171405,1405,2017,South,First Round,6,2017 Cincinnati,11,2017 Kansas St.,75,61,14,136,1
+20171407,1407,2017,South,First Round,7,2017 Dayton,10,2017 Wichita St.,58,64,-6,122,0
+20171402,1402,2017,South,First Round,8,2017 Arkansas,9,2017 Seton Hall,77,71,6,148,1
+20172109,2109,2017,East,Second Round,1,2017 Villanova,8,2017 Wisconsin,62,65,-3,127,0
+20172110,2110,2017,East,Second Round,5,2017 Virginia,4,2017 Florida,39,65,-26,104,0
+20172111,2111,2017,East,Second Round,11,2017 USC,3,2017 Baylor,78,82,-4,160,0
+20172112,2112,2017,East,Second Round,7,2017 South Carolina,2,2017 Duke,88,81,7,169,1
+20172209,2209,2017,West,Second Round,1,2017 Gonzaga,8,2017 Northwestern,79,73,6,152,1
+20172210,2210,2017,West,Second Round,5,2017 Notre Dame,4,2017 West Virginia,71,83,-12,154,0
+20172211,2211,2017,West,Second Round,11,2017 Xavier,3,2017 Florida St.,91,66,25,157,1
+20172212,2212,2017,West,Second Round,7,2017 Saint Mary's,2,2017 Arizona,60,69,-9,129,0
+20172309,2309,2017,Midwest,Second Round,1,2017 Kansas,9,2017 Michigan St.,90,70,20,160,1
+20172310,2310,2017,Midwest,Second Round,5,2017 Iowa St.,4,2017 Purdue,76,80,-4,156,0
+20172311,2311,2017,Midwest,Second Round,11,2017 Rhode Island,3,2017 Oregon,72,75,-3,147,0
+20172312,2312,2017,Midwest,Second Round,7,2017 Michigan,2,2017 Louisville,73,69,4,142,1
+20172409,2409,2017,South,Second Round,1,2017 North Carolina,8,2017 Arkanas,72,65,7,137,1
+20172410,2410,2017,South,Second Round,12,2017 Middle Tennessee,4,2017 Butler,65,74,-9,139,0
+20172411,2411,2017,South,Second Round,6,2017 Cincinnati,3,2017 UCLA,67,79,-12,146,0
+20172412,2412,2017,South,Second Round,10,2017 Wichita St.,2,2017 Kentucky,62,65,-3,127,0
+20173113,3113,2017,East,Sweet 16,8,2017 Wisconsin,4,2017 Florida,83,84,-1,167,0
+20173113,3113,2017,East,Sweet 16,3,2017 Baylor,7,2017 South Carolina,50,70,-20,120,0
+20173213,3213,2017,West,Sweet 16,1,2017 Gonzaga,4,2017 West Virginia,61,58,3,119,1
+20173214,3214,2017,West,Sweet 16,11,2017 Xavier,2,2017 Arizona,73,71,2,144,1
+20173313,3313,2017,Midwest,Sweet 16,1,2017 Kansas,4,2017 Purdue,98,66,32,164,1
+20173314,3314,2017,Midwest,Sweet 16,3,2017 Oregon,7,2017 Michigan,69,68,1,137,1
+20173413,3413,2017,South,Sweet 16,1,2017 North Carolina,4,2017 Butler,92,80,12,172,1
+20173414,3414,2017,South,Sweet 16,3,2017 UCLA,2,2017 Kentucky,75,86,-11,161,0
+20174115,4115,2017,East,Elite Eight,4,2017 Florida,7,2017 South Carolina,70,77,-7,147,0
+20174215,4215,2017,West,Elite Eight,1,2017 Gonzaga,11,2017 Xavier,83,59,24,142,1
+20174315,4315,2017,Midwest,Elite Eight,1,2017 Kansas,3,2017 Oregon,60,74,-14,134,0
+20174415,4415,2017,South,Elite Eight,1,2017 North Carolina,2,2017 Kentucky,75,73,2,148,1
+20175516,5516,2017,Final Four,Final Four,7,2017 South Carolina,1,2017 Gonzaga,73,77,-4,150,0
+20175517,5517,2017,Final Four,Final Four,3,2017 Oregon,1,2017 North Carolina,76,77,-1,153,0
+20175618,5618,2017,Final Four,Championship,1,2017 Gonzaga,1,2017 North Carolina,65,71,-6,136,0
+20181108,1108,2018,South,First Round,2,2018 Cincinnati,15,2018 Georgia St.,68,53,15,121,1
+20181106,1106,2018,South,First Round,3,2018 Tennessee,14,2018 Wright St.,73,47,26,120,1
+20181104,1104,2018,South,First Round,4,2018 Arizona,13,2018 Buffalo,68,89,-21,157,0
+20181103,1103,2018,South,First Round,5,2018 Kentucky,12,2018 Davidson,78,73,5,151,1
+20181105,1105,2018,South,First Round,6,2018 Miami FL,11,2018 Loyola Chicago,62,64,-2,126,0
+20181107,1107,2018,South,First Round,7,2018 Nevada,10,2018 Texas,87,83,4,170,1
+20181102,1102,2018,South,First Round,8,2018 Creighton,9,2018 Kansas St.,59,69,-10,128,0
+20181201,1201,2018,West,First Round,1,2018 Xavier,16,2018 Texas Southern,102,83,19,185,1
+20181208,1208,2018,West,First Round,2,2018 North Carolina,15,2018 Lipscomb,84,66,18,150,1
+20181206,1206,2018,West,First Round,3,2018 Michigan,14,2018 Montana,61,47,14,108,1
+20181204,1204,2018,West,First Round,4,2018 Gonzaga,13,2018 UNC Greensboro,68,64,4,132,1
+20181203,1203,2018,West,First Round,5,2018 Ohio St.,12,2018 South Dakota St.,81,73,8,154,1
+20181205,1205,2018,West,First Round,6,2018 Houston,11,2018 San Diego St.,67,65,2,132,1
+20181207,1207,2018,West,First Round,7,2018 Texas A&M,10,2018 Providence,73,69,4,142,1
+20181202,1202,2018,West,First Round,8,2018 Missouri,9,2018 Florida St.,54,67,-13,121,0
+20181301,1301,2018,East,First Round,1,2018 Villanova,16,2018 Radford,87,61,26,148,1
+20181308,1308,2018,East,First Round,2,2018 Purdue,15,2018 Cal St. Fullerton,74,48,26,122,1
+20181306,1306,2018,East,First Round,3,2018 Texas Tech,14,2018 Stephen F. Austin,70,60,10,130,1
+20181304,1304,2018,East,First Round,4,2018 Wichita St.,13,2018 Marshall,75,81,-6,156,0
+20181303,1303,2018,East,First Round,5,2018 West Virginia,12,2018 Murray St.,85,68,17,153,1
+20181305,1305,2018,East,First Round,6,2018 Florida,11,2018 St. Bonaventure,77,62,15,139,1
+20181307,1307,2018,East,First Round,7,2018 Arkansas,10,2018 Butler,62,79,-17,141,0
+20181302,1302,2018,East,First Round,8,2018 Virginia Tech,9,2018 Alabama,83,86,-3,169,0
+20181401,1401,2018,Midwest,First Round,1,2018 Kansas,16,2018 Penn,76,60,16,136,1
+20181408,1408,2018,Midwest,First Round,2,2018 Duke,15,2018 Iona,89,67,22,156,1
+20181406,1406,2018,Midwest,First Round,3,2018 Michigan St.,14,2018 Bucknell,82,78,4,160,1
+20181404,1404,2018,Midwest,First Round,4,2018 Auburn,13,2018 Charleston,62,58,4,120,1
+20181403,1403,2018,Midwest,First Round,5,2018 Clemson,12,2018 New Mexico St.,79,68,11,147,1
+20181405,1405,2018,Midwest,First Round,6,2018 TCU,11,2018 Syracuse,52,57,-5,109,0
+20181407,1407,2018,Midwest,First Round,7,2018 Rhode Island,10,2018 Oklahoma,83,78,5,161,1
+20181402,1402,2018,Midwest,First Round,8,2018 Seton Hall,9,2018 NC St.,94,83,11,177,1
+20182109,2109,2018,South,Second Round,16,2018 UMBC,9,2018 Kansas St.,43,50,-7,93,0
+20182110,2110,2018,South,Second Round,5,2018 Kentucky,13,2018 Buffalo,95,75,20,170,1
+20182111,2111,2018,South,Second Round,11,2018 Loyola Chicago,3,2018 Tennessee,63,62,1,125,1
+20182112,2112,2018,South,Second Round,7,2018 Nevada,2,2018 Cincinnati,75,73,2,148,1
+20182209,2209,2018,West,Second Round,1,2018 Xavier,9,2018 Florida St.,70,75,-5,145,0
+20182210,2210,2018,West,Second Round,5,2018 Ohio St.,4,2018 Gonzaga,84,90,-6,174,0
+20182211,2211,2018,West,Second Round,6,2018 Houston,3,2018 Michigan,63,64,-1,127,0
+20182212,2212,2018,West,Second Round,7,2018 Texas A&M,2,2018 North Carolina,86,65,21,151,1
+20182309,2309,2018,East,Second Round,1,2018 Villanova,9,2018 Alabama,81,58,23,139,1
+20182310,2310,2018,East,Second Round,5,2018 West Virginia,13,2018 Marshall,94,71,23,165,1
+20182311,2311,2018,East,Second Round,6,2018 Florida,3,2018 Texas Tech,66,69,-3,135,0
+20182312,2312,2018,East,Second Round,10,2018 Butler,2,2018 Purdue,73,76,-3,149,0
+20182409,2409,2018,Midwest,Second Round,1,2018 Kansas,8,2018 Seton Hall,83,79,4,162,1
+20182410,2410,2018,Midwest,Second Round,5,2018 Clemson,4,2018 Auburn,84,53,31,137,1
+20182411,2411,2018,Midwest,Second Round,11,2018 Syracuse,3,2018 Michigan St.,55,53,2,108,1
+20182412,2412,2018,Midwest,Second Round,7,2018 Rhode Island,2,2018 Duke,62,87,-25,149,0
+20183113,3113,2018,South,Sweet 16,9,2018 Kansas St.,5,2018 Kentucky,61,58,3,119,1
+20183113,3113,2018,South,Sweet 16,11,2018 Loyola Chicago,7,2018 Nevada,69,68,1,137,1
+20183213,3213,2018,West,Sweet 16,9,2018 Florida St.,4,2018 Gonzaga,75,60,15,135,1
+20183214,3214,2018,West,Sweet 16,3,2018 Michigan,7,2018 Texas A&M,99,72,27,171,1
+20183313,3313,2018,East,Sweet 16,1,2018 Villanova,5,2018 West Virginia,90,78,12,168,1
+20183314,3314,2018,East,Sweet 16,3,2018 Texas Tech,2,2018 Purdue,78,65,13,143,1
+20183413,3413,2018,Midwest,Sweet 16,1,2018 Kansas,5,2018 Clemson,80,76,4,156,1
+20183414,3414,2018,Midwest,Sweet 16,11,2018 Syracuse,2,2018 Duke,65,69,-4,134,0
+20184115,4115,2018,South,Elite Eight,9,2018 Kansas St.,11,2018 Loyola Chicago,62,78,-16,140,0
+20184215,4215,2018,West,Elite Eight,9,2018 Florida St.,3,2018 Michigan,54,58,-4,112,0
+20184315,4315,2018,East,Elite Eight,1,2018 Villanova,3,2018 Texas Tech,71,59,12,130,1
+20184415,4415,2018,Midwest,Elite Eight,1,2018 Kansas,2,2018 Duke,85,81,4,166,1
+20185516,5516,2018,Final Four,Final Four,11,2018 Loyola Chicago,3,2018 Michigan,57,69,-12,126,0
+20185517,5517,2018,Final Four,Final Four,1,2018 Villanova,1,2018 Kansas,95,79,16,174,1
+20185618,5618,2018,Final Four,Championship,3,2018 Michigan,1,2018 Villanova,62,79,-17,141,0
+20191101,1101,2019,East,First Round,1,2019 Duke,16,2019 North Dakota St.,85,62,23,147,1
+20191108,1108,2019,East,First Round,2,2019 Michigan St.,15,2019 Bradley,76,65,11,141,1
+20191106,1106,2019,East,First Round,3,2019 LSU,14,2019 Yale,79,74,5,153,1
+20191104,1104,2019,East,First Round,4,2019 Virginia Tech,13,2019 Saint Louis,66,52,14,118,1
+20191103,1103,2019,East,First Round,5,2019 Mississippi St.,12,2019 Liberty,76,80,-4,156,0
+20191105,1105,2019,East,First Round,6,2019 Maryland,11,2019 Belmont,79,77,2,156,1
+20191107,1107,2019,East,First Round,7,2019 Louisville,10,2019 Minnesota,76,86,-10,162,0
+20191102,1102,2019,East,First Round,8,2019 VCU,9,2019 UCF,58,73,-15,131,0
+20191201,1201,2019,West,First Round,1,2019 Gonzaga,16,2019 Fairleigh Dickinson,87,49,38,136,1
+20191208,1208,2019,West,First Round,2,2019 Michigan,15,2019 Montana,74,55,19,129,1
+20191206,1206,2019,West,First Round,3,2019 Texas Tech,14,2019 Northern Kentucky,72,57,15,129,1
+20191204,1204,2019,West,First Round,4,2019 Florida St.,13,2019 Vermont,76,79,-3,155,0
+20191203,1203,2019,West,First Round,5,2019 Marquette,12,2019 Murray St.,64,83,-19,147,0
+20191205,1205,2019,West,First Round,6,2019 Buffalo,11,2019 Arizona St.,91,74,17,165,1
+20191207,1207,2019,West,First Round,7,2019 Nevada,10,2019 Florida,61,70,-9,131,0
+20191202,1202,2019,West,First Round,8,2019 Syracuse,9,2019 Baylor,69,78,-9,147,0
+20191301,1301,2019,South,First Round,1,2019 Virginia,16,2019 Gardner-Webb,71,56,15,127,1
+20191308,1308,2019,South,First Round,2,2019 Tennessee,15,2019 Colgate,77,70,7,147,1
+20191306,1306,2019,South,First Round,3,2019 Purdue,14,2019 Old Dominion,61,48,13,109,1
+20191304,1304,2019,South,First Round,4,2019 Kansas St.,13,2019 UC Irvine,64,70,-6,134,0
+20191303,1303,2019,South,First Round,5,2019 Wisconsin,12,2019 Oregon,54,72,-18,126,0
+20191305,1305,2019,South,First Round,6,2019 Villanova,11,2019 Saint Mary's,61,57,4,118,1
+20191307,1307,2019,South,First Round,7,2019 Cincinnati,10,2019 Iowa,72,79,-7,151,0
+20191302,1302,2019,South,First Round,8,2019 Mississippi,9,2019 Oklahoma,72,95,-23,167,0
+20191401,1401,2019,Midwest,First Round,1,2019 North Carolina,16,2019 Iona,88,73,15,161,1
+20191408,1408,2019,Midwest,First Round,2,2019 Kentucky,15,2019 Abilene Christian,79,44,35,123,1
+20191406,1406,2019,Midwest,First Round,3,2019 Houston,14,2019 Georgia St.,84,55,29,139,1
+20191404,1404,2019,Midwest,First Round,4,2019 Kansas,13,2019 Northeastern,87,53,34,140,1
+20191403,1403,2019,Midwest,First Round,5,2019 Auburn,12,2019 New Mexico St.,78,77,1,155,1
+20191405,1405,2019,Midwest,First Round,6,2019 Iowa St.,11,2019 Ohio St.,59,62,-3,121,0
+20191407,1407,2019,Midwest,First Round,7,2019 Wofford,10,2019 Seton Hall,84,68,16,152,1
+20191402,1402,2019,Midwest,First Round,8,2019 Utah St.,9,2019 Washington,61,78,-17,139,0
+20192109,2109,2019,East,Second Round,1,2019 Duke,9,2019 UCF,77,76,1,153,1
+20192110,2110,2019,East,Second Round,12,2019 Liberty,4,2019 Virginia Tech,58,67,-9,125,0
+20192111,2111,2019,East,Second Round,6,2019 Maryland,3,2019 LSU,67,69,-2,136,0
+20192112,2112,2019,East,Second Round,10,2019 Minnesota,2,2019 Michigan St.,50,70,-20,120,0
+20192209,2209,2019,West,Second Round,1,2019 Gonzaga,9,2019 Baylor,83,71,12,154,1
+20192210,2210,2019,West,Second Round,12,2019 Murray St.,4,2019 Florida St.,62,90,-28,152,0
+20192211,2211,2019,West,Second Round,6,2019 Buffalo,3,2019 Texas Tech,58,78,-20,136,0
+20192212,2212,2019,West,Second Round,10,2019 Florida,2,2019 Michigan,49,64,-15,113,0
+20192309,2309,2019,South,Second Round,1,2019 Virginia,9,2019 Oklahoma,63,51,12,114,1
+20192310,2310,2019,South,Second Round,12,2019 Oregon,13,2019 UC Irvine,73,54,19,127,1
+20192311,2311,2019,South,Second Round,6,2019 Villanova,3,2019 Purdue,61,87,-26,148,0
+20192312,2312,2019,South,Second Round,10,2019 Iowa,2,2019 Tennessee,77,83,-6,160,0
+20192409,2409,2019,Midwest,Second Round,1,2019 North Carolina,9,2019 Washington,81,59,22,140,1
+20192410,2410,2019,Midwest,Second Round,5,2019 Auburn,4,2019 Kansas,89,75,14,164,1
+20192411,2411,2019,Midwest,Second Round,11,2019 Ohio St.,3,2019 Houston,59,74,-15,133,0
+20192412,2412,2019,Midwest,Second Round,7,2019 Wofford,2,2019 Kentucky,56,62,-6,118,0
+20193113,3113,2019,East,Sweet 16,1,2019 Duke,4,2019 Virginia Tech,75,73,2,148,1
+20193113,3113,2019,East,Sweet 16,3,2019 LSU,2,2019 Michigan St.,63,80,-17,143,0
+20193213,3213,2019,West,Sweet 16,1,2019 Gonzaga,4,2019 Florida St.,72,58,14,130,1
+20193214,3214,2019,West,Sweet 16,3,2019 Texas Tech,2,2019 Michigan,63,44,19,107,1
+20193313,3313,2019,South,Sweet 16,1,2019 Virginia,12,2019 Oregon,53,49,4,102,1
+20193314,3314,2019,South,Sweet 16,3,2019 Purdue,2,2019 Tennessee,99,94,5,193,1
+20193413,3413,2019,Midwest,Sweet 16,1,2019 North Carolina,5,2019 Auburn,80,97,-17,177,0
+20193414,3414,2019,Midwest,Sweet 16,3,2019 Houston,2,2019 Kentucky,58,62,-4,120,0
+20194115,4115,2019,East,Elite Eight,1,2019 Duke,2,2019 Michigan St.,67,68,-1,135,0
+20194215,4215,2019,West,Elite Eight,1,2019 Gonzaga,3,2019 Texas Tech,69,75,-6,144,0
+20194315,4315,2019,South,Elite Eight,1,2019 Virginia,3,2019 Purdue,80,75,5,155,1
+20194415,4415,2019,Midwest,Elite Eight,5,2019 Auburn,2,2019 Kentucky,77,71,6,148,1
+20195516,5516,2019,Final Four,Final Four,2,2019 Michigan St.,3,2019 Texas Tech,51,61,-10,112,0
+20195517,5517,2019,Final Four,Final Four,1,2019 Virginia,5,2019 Auburn,63,62,1,125,1
+20195618,5618,2019,Final Four,Championship,3,2019 Texas Tech,1,2019 Virginia,77,85,-8,162,0
+20211101,1101,2021,West,First Round,1,2021 Gonzaga,16,2021 Norfolk St.,98,55,43,153,1
+20211108,1108,2021,West,First Round,2,2021 Iowa,15,2021 Grand Canyon,86,74,12,160,1
+20211106,1106,2021,West,First Round,3,2021 Kansas,14,2021 Eastern Washington,83,84,-1,167,0
+20211104,1104,2021,West,First Round,4,2021 Virginia,13,2021 Ohio,58,62,-4,120,0
+20211103,1103,2021,West,First Round,5,2021 Creighton,12,2021 UC Santa Barbara,63,62,1,125,1
+20211105,1105,2021,West,First Round,6,2021 USC,11,2021 Drake,72,56,16,128,1
+20211102,1102,2021,West,First Round,8,2021 Oklahoma,9,2021 Missouri,72,68,4,140,1
+20211201,1201,2021,East,First Round,1,2021 Michigan,16,2021 Texas Southern,82,66,16,148,1
+20211208,1208,2021,East,First Round,2,2021 Alabama,15,2021 Iona,68,55,13,123,1
+20211206,1206,2021,East,First Round,3,2021 Texas,14,2021 Abilene Christian,52,53,-1,105,0
+20211204,1204,2021,East,First Round,4,2021 Florida St.,13,2021 UNC Greensboro,64,54,10,118,1
+20211203,1203,2021,East,First Round,5,2021 Colorado,12,2021 Georgetown,96,73,23,169,1
+20211205,1205,2021,East,First Round,6,2021 BYU,11,2021 UCLA,62,73,-11,135,0
+20211207,1207,2021,East,First Round,7,2021 Connecticut,10,2021 Maryland,54,63,-9,117,0
+20211202,1202,2021,East,First Round,8,2021 LSU,9,2021 St. Bonaventure,76,61,15,137,1
+20211301,1301,2021,South,First Round,1,2021 Baylor,16,2021 Hartford,79,55,24,134,1
+20211308,1308,2021,South,First Round,2,2021 Ohio St.,15,2021 Oral Roberts,72,75,-3,147,0
+20211306,1306,2021,South,First Round,3,2021 Arkansas,14,2021 Colgate,85,68,17,153,1
+20211304,1304,2021,South,First Round,4,2021 Purdue,13,2021 North Texas,69,78,-9,147,0
+20211303,1303,2021,South,First Round,5,2021 Villanova,12,2021 Winthrop,73,63,10,136,1
+20211305,1305,2021,South,First Round,6,2021 Texas Tech,11,2021 Utah St.,65,53,12,118,1
+20211307,1307,2021,South,First Round,7,2021 Florida,10,2021 Virginia Tech,75,70,5,145,1
+20211302,1302,2021,South,First Round,8,2021 North Carolina,9,2021 Wisconsin,62,85,-23,147,0
+20211401,1401,2021,Midwest,First Round,1,2021 Illinois,16,2021 Drexel,78,49,29,127,1
+20211408,1408,2021,Midwest,First Round,2,2021 Houston,15,2021 Cleveland St.,87,56,31,143,1
+20211406,1406,2021,Midwest,First Round,3,2021 West Virginia,14,2021 Morehead St.,84,67,17,151,1
+20211404,1404,2021,Midwest,First Round,4,2021 Oklahoma St.,13,2021 Liberty,69,60,9,129,1
+20211403,1403,2021,Midwest,First Round,5,2021 Tennessee,12,2021 Oregon St.,56,70,-14,126,0
+20211405,1405,2021,Midwest,First Round,6,2021 San Diego St.,11,2021 Syracuse,62,78,-16,140,0
+20211407,1407,2021,Midwest,First Round,7,2021 Clemson,10,2021 Rutgers,56,60,-4,116,0
+20211402,1402,2021,Midwest,First Round,8,2021 Loyola Chicago,9,2021 Georgia Tech,71,60,11,131,1
+20212109,2109,2021,West,Second Round,1,2021 Gonzaga,8,2021 Oklahoma,87,71,16,158,1
+20212110,2110,2021,West,Second Round,5,2021 Creighton,13,2021 Ohio,72,58,14,130,1
+20212111,2111,2021,West,Second Round,6,2021 USC,3,2021 Kansas,85,51,34,136,1
+20212112,2112,2021,West,Second Round,7,2021 Oregon,2,2021 Iowa,95,80,15,175,1
+20212209,2209,2021,East,Second Round,1,2021 Michigan,8,2021 LSU,86,76,10,162,1
+20212210,2210,2021,East,Second Round,5,2021 Colorado,4,2021 Florida St.,53,71,-18,124,0
+20212211,2211,2021,East,Second Round,11,2021 UCLA,14,2021 Abilene Christian,67,47,20,114,1
+20212212,2212,2021,East,Second Round,10,2021 Maryland,2,2021 Alabama,77,96,-19,173,0
+20212309,2309,2021,South,Second Round,1,2021 Baylor,9,2021 Wisconsin,76,63,13,139,1
+20212310,2310,2021,South,Second Round,5,2021 Villanova,13,2021 North Texas,84,61,23,145,1
+20212311,2311,2021,South,Second Round,6,2021 Texas Tech,3,2021 Arkansas,66,68,-2,134,0
+20212312,2312,2021,South,Second Round,7,2021 Florida,15,2021 Oral Roberts,78,81,-3,159,0
+20212409,2409,2021,Midwest,Second Round,1,2021 Illinois,8,2021 Loyola Chicago,58,71,-13,129,0
+20212410,2410,2021,Midwest,Second Round,12,2021 Oregon St.,4,2021 Oklahoma St.,80,70,10,150,1
+20212411,2411,2021,Midwest,Second Round,11,2021 Syracuse,3,2021 West Virginia,75,72,3,147,1
+20212412,2412,2021,Midwest,Second Round,10,2021 Rutgers,2,2021 Houston,60,63,-3,123,0
+20213113,3113,2021,West,Sweet 16,1,2021 Gonzaga,5,2021 Creighton,83,65,18,148,1
+20213113,3113,2021,West,Sweet 16,6,2021 USC,7,2021 Oregon,82,68,14,150,1
+20213213,3213,2021,East,Sweet 16,1,2021 Michigan,4,2021 Florida St.,76,58,18,134,1
+20213214,3214,2021,East,Sweet 16,11,2021 UCLA,2,2021 Alabama,88,78,10,166,1
+20213313,3313,2021,South,Sweet 16,1,2021 Baylor,5,2021 Villanova,62,51,11,113,1
+20213314,3314,2021,South,Sweet 16,3,2021 Arkansas,15,2021 Oral Roberts,72,70,2,142,1
+20213413,3413,2021,Midwest,Sweet 16,8,2021 Loyola Chicago,12,2021 Oregon St.,58,65,-7,123,0
+20213414,3414,2021,Midwest,Sweet 16,11,2021 Syracuse,2,2021 Houston,46,62,-16,108,0
+20214115,4115,2021,West,Elite Eight,1,2021 Gonzaga,6,2021 USC,85,66,19,151,1
+20214215,4215,2021,East,Elite Eight,1,2021 Michigan,11,2021 UCLA,49,51,-2,100,0
+20214315,4315,2021,South,Elite Eight,1,2021 Baylor,3,2021 Arkansas,81,72,9,153,1
+20214415,4415,2021,Midwest,Elite Eight,12,2021 Oregon St.,2,2021 Houston,61,67,-6,128,0
+20215516,5516,2021,Final Four,Final Four,1,2021 Gonzaga,11,2021 UCLA,93,90,3,183,1
+20215517,5517,2021,Final Four,Final Four,1,2021 Baylor,2,2021 Houston,78,59,19,137,1
+20215618,5618,2021,Final Four,Championship,1,2021 Gonzaga,1,2021 Baylor,70,86,-16,156,0
+20221101,1101,2022,West,First Round,1,2022 Gonzaga,16,2022 Georgia St.,93,72,21,165,1
+20221108,1108,2022,West,First Round,2,2022 Duke,15,2022 Cal St. Fullerton,78,61,17,139,1
+20221106,1106,2022,West,First Round,3,2022 Texas Tech,14,2022 Montana St.,97,62,35,159,1
+20221104,1104,2022,West,First Round,4,2022 Arkansas,13,2022 Vermont,75,71,4,146,1
+20221103,1103,2022,West,First Round,5,2022 Connecticut,12,2022 New Mexico St.,63,70,-7,133,0
+20221105,1105,2022,West,First Round,6,2022 Alabama,11,2022 Notre Dame,64,78,-14,142,0
+20221107,1107,2022,West,First Round,7,2022 Michigan St.,10,2022 Davidson,74,73,1,147,1
+20221102,1102,2022,West,First Round,8,2022 Boise St.,9,2022 Memphis,53,64,-11,117,0
+20221201,1201,2022,East,First Round,1,2022 Baylor,16,2022 Norfolk St.,85,49,36,134,1
+20221208,1208,2022,East,First Round,2,2022 Kentucky,15,2022 Saint Peter's,79,85,-6,164,0
+20221206,1206,2022,East,First Round,3,2022 Purdue,14,2022 Yale,78,56,22,134,1
+20221204,1204,2022,East,First Round,4,2022 UCLA,13,2022 Akron,57,53,4,110,1
+20221203,1203,2022,East,First Round,5,2022 Saint Mary's,12,2022 Indiana,82,53,29,135,1
+20221205,1205,2022,East,First Round,6,2022 Texas,11,2022 Virginia Tech,81,73,8,154,1
+20221207,1207,2022,East,First Round,7,2022 Murray St.,10,2022 San Francisco,92,87,5,179,1
+20221202,1202,2022,East,First Round,8,2022 North Carolina,9,2022 Marquette,95,63,32,158,1
+20221301,1301,2022,South,First Round,1,2022 Arizona,16,2022 Wright St.,87,70,17,157,1
+20221308,1308,2022,South,First Round,2,2022 Villanova,15,2022 Delaware,80,60,20,140,1
+20221306,1306,2022,South,First Round,3,2022 Tennessee,14,2022 Longwood,88,56,32,144,1
+20221304,1304,2022,South,First Round,4,2022 Illinois,13,2022 Chattanooga,54,53,1,107,1
+20221303,1303,2022,South,First Round,5,2022 Houston,12,2022 UAB,82,68,14,150,1
+20221305,1305,2022,South,First Round,6,2022 Colorado St.,11,2022 Michigan,63,75,-12,138,0
+20221307,1307,2022,South,First Round,7,2022 Ohio St.,10,2022 Loyola Chicago,54,41,13,95,1
+20221302,1302,2022,South,First Round,8,2022 Seton Hall,9,2022 TCU,42,69,-27,111,0
+20221401,1401,2022,Midwest,First Round,1,2022 Texas,16,2022 Texas Southern,83,56,27,139,1
+20221408,1408,2022,Midwest,First Round,2,2022 Auburn,15,2022 Jacksonville St.,80,61,19,141,1
+20221406,1406,2022,Midwest,First Round,3,2022 Wisconsin,14,2022 Colgate,67,60,7,127,1
+20221404,1404,2022,Midwest,First Round,4,2022 Providence,13,2022 South Dakota St.,66,57,9,123,1
+20221403,1403,2022,Midwest,First Round,5,2022 Iowa,12,2022 Richmond,63,67,-4,130,0
+20221405,1405,2022,Midwest,First Round,6,2022 LSU,11,2022 Iowa St.,54,59,-5,113,0
+20221407,1407,2022,Midwest,First Round,7,2022 USC,10,2022 Miami FL,66,68,-2,134,0
+20221402,1402,2022,Midwest,First Round,8,2022 San Diego St.,9,2022 Creighton,69,72,-3,141,0
+20222109,2109,2022,West,Second Round,1,2022 Gonzaga,9,2022 Memphis,82,78,4,160,1
+20222110,2110,2022,West,Second Round,12,2022 New Mexico St.,4,2022 Arkansas,48,53,-5,101,0
+20222111,2111,2022,West,Second Round,11,2022 Notre Dame,3,2022 Texas Tech,53,59,-6,112,0
+20222112,2112,2022,West,Second Round,7,2022 Michigan St.,2,2022 Duke,76,85,-9,161,0
+20222209,2209,2022,East,Second Round,1,2022 Baylor,8,2022 North Carolina,86,93,-7,179,0
+20222210,2210,2022,East,Second Round,5,2022 Saint Mary's,4,2022 UCLA,56,72,-16,128,0
+20222211,2211,2022,East,Second Round,6,2022 Texas,3,2022 Purdue,71,81,-10,152,0
+20222212,2212,2022,East,Second Round,7,2022 Murray St.,15,2022 Saint Peter's,60,70,-10,130,0
+20222309,2309,2022,South,Second Round,1,2022 Arizona,9,2022 TCU,85,80,5,165,1
+20222310,2310,2022,South,Second Round,5,2022 Houston,4,2022 Illinois,68,53,15,121,1
+20222311,2311,2022,South,Second Round,11,2022 Michigan,3,2022 Tennessee,76,68,8,144,1
+20222312,2312,2022,South,Second Round,7,2022 Ohio St.,2,2022 Villanova,61,71,-10,132,0
+20222409,2409,2022,Midwest,Second Round,1,2022 Kansas,9,2022 Creighton,79,72,7,151,1
+20222410,2410,2022,Midwest,Second Round,12,2022 Richmond,4,2022 Providence,51,79,-28,130,0
+20222411,2411,2022,Midwest,Second Round,11,2022 Iowa St.,3,2022 Wisconsin,54,49,5,103,1
+20222412,2412,2022,Midwest,Second Round,10,2022 Miami FL,2,2022 Auburn,79,61,18,140,1
+20223113,3113,2022,West,Sweet 16,1,2022 Gonzaga,4,2022 Arkansas,68,74,-6,142,0
+20223113,3113,2022,West,Sweet 16,3,2022 Texas Tech,2,2022 Duke,73,78,-5,151,0
+20223213,3213,2022,East,Sweet 16,8,2022 North Carolina,4,2022 UCLA,73,66,7,139,1
+20223214,3214,2022,East,Sweet 16,3,2022 Purdue,15,2022 Saint Peter's,64,67,-3,131,0
+20223313,3313,2022,South,Sweet 16,1,2022 Arizona,5,2022 Houston,60,72,-12,132,0
+20223314,3314,2022,South,Sweet 16,11,2022 Michigan,2,2022 Villanova,55,63,-8,118,0
+20223413,3413,2022,Midwest,Sweet 16,1,2022 Kansas,4,2022 Providence,66,61,5,127,1
+20223414,3414,2022,Midwest,Sweet 16,11,2022 Iowa St.,10,2022 Miami FL,56,70,-14,126,0
+20224115,4115,2022,West,Elite Eight,4,2022 Arkansas,2,2022 Duke,69,78,-9,147,0
+20224215,4215,2022,East,Elite Eight,8,2022 North Carolina,15,2022 Saint Peter's,69,49,20,118,1
+20224315,4315,2022,South,Elite Eight,5,2022 Houston,2,2022 Villanova,44,50,-6,94,0
+20224415,4415,2022,Midwest,Elite Eight,1,2022 Kansas,10,2022 Miami FL,76,50,26,126,1
+20225516,5516,2022,Final Four,Final Four,2,2022 Duke,8,2022 North Carolina,77,81,-4,158,0
+20225517,5517,2022,Final Four,Final Four,2,2022 Villanova,1,2022 Kansas,65,81,-16,146,0
+20225618,5618,2022,Final Four,Championship,8,2022 North Carolina,1,2022 Kansas,69,72,-3,141,0
+20231101,1101,2023,South,First Round,1,2023 Alabama,16,2023 Texas A&M-Corpus Chris,96,75,21,171,1
+20231108,1108,2023,South,First Round,2,2023 Arizona,15,2023 Princeton,55,59,-4,114,0
+20231106,1106,2023,South,First Round,3,2023 Baylor,14,2023 UC Santa Barbara,74,56,18,130,1
+20231104,1104,2023,South,First Round,4,2023 Virginia,13,2023 Furman,67,68,-1,135,0
+20231103,1103,2023,South,First Round,5,2023 San Diego St.,12,2023 Charleston,63,57,6,120,1
+20231105,1105,2023,South,First Round,6,2023 Creighton,11,2023 NC St.,72,63,9,135,1
+20231107,1107,2023,South,First Round,7,2023 Missouri,10,2023 Utah St.,76,65,11,141,1
+20231102,1102,2023,South,First Round,8,2023 Maryland,9,2023 West Virginia,67,65,2,132,1
+20231201,1201,2023,East,First Round,1,2023 Purdue,16,2023 Fairleigh Dickinson,58,63,-5,121,0
+20231208,1208,2023,East,First Round,2,2023 Marquette,15,2023 Vermont,78,61,17,139,1
+20231206,1206,2023,East,First Round,3,2023 Kansas St.,14,2023 Montana St.,77,65,12,142,1
+20231204,1204,2023,East,First Round,4,2023 Tennessee,13,2023 Louisiana,58,55,3,113,1
+20231203,1203,2023,East,First Round,5,2023 Duke,12,2023 Oral Roberts,74,51,23,125,1
+20231205,1205,2023,East,First Round,6,2023 Kentucky,11,2023 Providence,61,53,8,114,1
+20231207,1207,2023,East,First Round,7,2023 Michigan St.,10,2023 USC,72,62,10,134,1
+20231202,1202,2023,East,First Round,8,2023 Memphis,9,2023 Florida Atlantic,65,66,-1,131,0
+20231301,1301,2023,Midwest,First Round,1,2023 Houston,16,2023 Northern Kentucky,63,52,11,115,1
+20231308,1308,2023,Midwest,First Round,2,2023 Texas,15,2023 Colgate,81,61,20,142,1
+20231306,1306,2023,Midwest,First Round,3,2023 Xavier,14,2023 Kennesaw St.,72,67,5,139,1
+20231304,1304,2023,Midwest,First Round,4,2023 Indiana,13,2023 Kent St.,71,60,11,131,1
+20231303,1303,2023,Midwest,First Round,5,2023 Miami FL,12,2023 Drake,63,56,7,119,1
+20231305,1305,2023,Midwest,First Round,6,2023 Iowa St.,11,2023 Pittsburgh,41,59,-18,100,0
+20231307,1307,2023,Midwest,First Round,7,2023 Texas A&M,10,2023 Penn St.,59,76,-17,135,0
+20231302,1302,2023,Midwest,First Round,8,2023 Iowa,9,2023 Auburn,75,83,-8,158,0
+20231401,1401,2023,West,First Round,1,2023 Kansas,16,2023 Howard,96,68,28,164,1
+20231408,1408,2023,West,First Round,2,2023 UCLA,15,2023 UNC Asheville,86,53,33,139,1
+20231406,1406,2023,West,First Round,3,2023 Gonzaga,14,2023 Grand Canyon,82,70,12,152,1
+20231404,1404,2023,West,First Round,4,2023 Connecticut,13,2023 Iona,87,63,24,150,1
+20231403,1403,2023,West,First Round,5,2023 Saint Mary's,12,2023 VCU,63,51,12,114,1
+20231405,1405,2023,West,First Round,6,2023 TCU,11,2023 Arizona St.,72,70,2,142,1
+20231407,1407,2023,West,First Round,7,2023 Northwestern,10,2023 Boise St.,75,67,8,142,1
+20231402,1402,2023,West,First Round,8,2023 Arkansas,9,2023 Illinois,73,63,10,136,1
+20232109,2109,2023,South,Second Round,1,2023 Alabama,8,2023 Maryland,73,51,22,124,1
+20232110,2110,2023,South,Second Round,5,2023 San Diego St.,13,2023 Furman,75,52,23,127,1
+20232111,2111,2023,South,Second Round,6,2023 Creighton,3,2023 Baylor,85,76,9,161,1
+20232112,2112,2023,South,Second Round,7,2023 Missouri,15,2023 Princeton,63,78,-15,141,0
+20232209,2209,2023,East,Second Round,16,2023 Fairleigh Dickinson,9,2023 Florida Atlantic,70,78,-8,148,0
+20232210,2210,2023,East,Second Round,5,2023 Duke,4,2023 Tennessee,52,65,-13,117,0
+20232211,2211,2023,East,Second Round,6,2023 Kentucky,3,2023 Kansas St.,69,75,-6,144,0
+20232212,2212,2023,East,Second Round,7,2023 Michigan St.,2,2023 Marquette,69,60,9,129,1
+20232309,2309,2023,Midwest,Second Round,1,2023 Houston,9,2023 Auburn,81,64,17,145,1
+20232310,2310,2023,Midwest,Second Round,5,2023 Miami FL,4,2023 Indiana,85,69,16,154,1
+20232311,2311,2023,Midwest,Second Round,11,2023 Pittsburgh,3,2023 Xavier,73,84,-11,157,0
+20232312,2312,2023,Midwest,Second Round,10,2023 Penn St.,2,2023 Texas,66,71,-5,137,0
+20232409,2409,2023,West,Second Round,1,2023 Kansas,8,2023 Arkansas,71,72,-1,143,0
+20232410,2410,2023,West,Second Round,5,2023 Saint Mary's,4,2023 Connecticut,55,70,-15,125,0
+20232411,2411,2023,West,Second Round,6,2023 TCU,3,2023 Gonzaga,81,84,-3,165,0
+20232412,2412,2023,West,Second Round,7,2023 Northwestern,2,2023 UCLA,63,68,-5,131,0
+20233113,3113,2023,South,Sweet 16,1,2023 Alabama,5,2023 San Diego St.,64,71,-7,135,0
+20233113,3113,2023,South,Sweet 16,6,2023 Creighton,15,2023 Princeton,86,75,11,161,1
+20233213,3213,2023,East,Sweet 16,9,2023 Florida Atlantic,4,2023 Tennessee,62,55,7,117,1
+20233214,3214,2023,East,Sweet 16,3,2023 Kansas St.,7,2023 Michigan St.,98,93,5,191,1
+20233313,3313,2023,Midwest,Sweet 16,1,2023 Houston,5,2023 Miami FL,75,89,-14,164,0
+20233314,3314,2023,Midwest,Sweet 16,3,2023 Xavier,2,2023 Texas,71,83,-12,154,0
+20233413,3413,2023,West,Sweet 16,8,2023 Arkansas,4,2023 Connecticut,65,88,-23,153,0
+20233414,3414,2023,West,Sweet 16,3,2023 Gonzaga,2,2023 UCLA,79,76,3,155,1
+20234115,4115,2023,South,Elite Eight,5,2023 San Diego St.,6,2023 Creighton,57,56,1,113,1
+20234215,4215,2023,East,Elite Eight,9,2023 Florida Atlantic,3,2023 Kansas St.,79,76,3,155,1
+20234315,4315,2023,Midwest,Elite Eight,5,2023 Miami FL,2,2023 Texas,88,81,7,169,1
+20234415,4415,2023,West,Elite Eight,4,2023 Connecitcut,3,2023 Gonzaga,82,54,28,136,1
+20235516,5516,2023,Final Four,Final Four,5,2023 San Diego St.,9,2023 Florida Atlantic,72,71,1,143,1
+20235517,5517,2023,Final Four,Final Four,5,2023 Miami FL,4,2023 Connecticut,59,72,-13,131,0
+20235618,5618,2023,Final Four,Championship,5,2023 San Diego St.,4,2023 Connecticut,59,76,-17,135,0
